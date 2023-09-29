@@ -5,3 +5,5 @@ No, this game is entirely different from opsu!. Both applications have notable d
 [Back to home](../index)
 
 [Suggest changes to the page](https://github.com/NeroYuki/osudroid-guide/edit/main/docs/introduction/opsu.md)
+
+droid is better than opsu
