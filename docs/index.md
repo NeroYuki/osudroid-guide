@@ -14,10 +14,10 @@ You can access newbie resources here.
     - [Is this game available for iOS?](./introduction/ios)
     - [I see osu!droid in Google Play Store. Which one should I download?](./introduction/playstore)
 - Game Features
-    - How do I add/import beatmaps?
-    - How do I add/import skins?
-    - How do I see map leaderboards in-game?
-    - How do I improve at the game?
+    - [How do I add/import beatmaps?](./feature/beatmap)
+    - [How do I add/import skins?](./feature/skin)
+    - [How do I see map leaderboards in-game?](./feature/leaderboard)
+    - [How do I improve at the game?](./feature/git_gud)
 - Account Management
     - Do I need to register an account to play the game?
     - How do I create an account?
