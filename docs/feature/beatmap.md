@@ -3,20 +3,20 @@
 There are multiple ways to add or import songs, or what is colloquially known as beatmaps.
 
 To start, you need to download a beatmapset. A beatmapset contains multiple beatmaps. There are several sites where you can download a beatmapset:
-– The osu! site, provided that you have an osu! account
-– Chimu, which is accessible directly in-game via the main menu
+- The osu! site, provided that you have an osu! account
+- Chimu, which is accessible directly in-game via the main menu
 ![chimu where](image.png)
-– Sayobot
-– Beatconnect
+- Sayobot
+- Beatconnect
 
 Keep in mind that you can only import osu!standard beatmaps. If the beatmapset you have downloaded has beatmaps for other gamemodes, they will be automatically ignored. In the aforementioned websites, they are denoted by these icons (circled in red):
-– osu! site
+- osu! site
 ![osu map panel](image-1.png)
-– Sayobot
+- Sayobot
 ![sayo map panel](image-2.png)
-– Chimu
+- Chimu
 ![chimu map panel](image-3.png)
-– Beatconnect (pay attention to the shape, the colors denote the difficulty)
+- Beatconnect (pay attention to the shape, the colors denote the difficulty)
 ![beatconn map panel](image-4.png)
 
 Once you have downloaded a beatmapset, you have a few options:
