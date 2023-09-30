@@ -7,7 +7,7 @@ This guide is still a work in progress. If you have any suggestions or feedback,
 Legacy FAQ section (still up for contribution)
 
 - Introduction
-    - [What is this game? How do I play it?](/introduction/general)
+    - [What is this game? How do I play it?]({{ site.baseurl }}/introduction/general)
     - [Where can I download and install the game? Is this game safe?](./introduction/download)
     - [Is this game the same as opsu!?](./introduction/opsu)
     - [Is this game available for iOS?](./introduction/ios)
