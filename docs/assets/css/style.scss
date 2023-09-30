@@ -1,0 +1,49 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.inner {
+    position: relative;
+    max-width: 800px;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
+
+.outer-nav {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #333;
+}
+
+ul.topnav {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    max-width: 800px;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav li {
+    float: left;
+}
+
+.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.topnav li a:hover {
+    background-color: #111;
+}

@@ -1,11 +1,10 @@
 ## osu!droid Guide
 
-This page provides the frequently asked questions (FAQ) about the game or server. It will be updated periodically as needed.
-If you have a question to be added, please contact a @Helper or @Moderator in the server.
+Welcome to osu!droid Guide, the one-stop shop for all things related to osu!droid. This guide is intended to help new players get started with the game and to help existing players with their problems. This guide is also intended to be a replacement for the legacy FAQ section on the wordpress osudroidfaq site.
 
-For ease of access, you can use these shortcuts to access the category or question that you need. Alternatively, you can use the menu provided on the head of this page to access each category.
+This guide is still a work in progress. If you have any suggestions or feedback, feel free to open an issue or pull request on the [GitHub repository](https://github.com/NeroYuki/osudroid-guide)
 
-You can access newbie resources here.
+Legacy FAQ section (still up for contribution)
 
 - Introduction
     - [What is this game? How do I play it?](./introduction/general)
