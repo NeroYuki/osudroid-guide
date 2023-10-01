@@ -47,6 +47,4 @@ Introduction
     - [สมัครบัญชี osu!droid ไม่ได้]({{ site.baseurl }}/lang/th/troubleshooting/cant_register)
     - [ธงชาติบนหน้าโปรไฟล์ของฉันมันไม่ตรง/หาย]({{ site.baseurl }}/lang/th/troubleshooting/wrong_flag)
 
-[What is this game? How do I play it?]({{ site.baseurl }}/lang/th/introduction/general)
-
 {% include bottom_nav.md %}
