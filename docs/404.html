@@ -22,19 +22,34 @@ layout: default
   const pathname = location.pathname.replace('/osudroid-guide', '')
   const avail_lang = ['vi', 'es', 'id', 'th']
   const back_to_home = {
-    vi: "Trở về trang chủ",
-    es: "Volver a la página de inicio",
-    id: "Kembali ke halaman utama",
-    th: "กลับไปที่หน้าหลัก",
+    vi: "{{ site.data.i18n.vi.back_to_home | default: '' }}",
+    es: "{{ site.data.i18n.es.back_to_home | default: '' }}",
+    id: "{{ site.data.i18n.id.back_to_home | default: '' }}",
+    th: "{{ site.data.i18n.th.back_to_home | default: '' }}",
   }
 
-  const add_new_page = {
-    vi: "Thêm nội dung cho trang này",
-    es: "Agregar contenido a esta página",
-    id: "Tambahkan konten ke halaman ini",
-    th: "เพิ่มเนื้อหาในหน้านี้",
+  const suggest_addition = {
+    vi: "{{ site.data.i18n.vi.suggest_addition | default: '' }}",
+    es: "{{ site.data.i18n.es.suggest_addition | default: '' }}",
+    id: "{{ site.data.i18n.id.suggest_addition | default: '' }}",
+    th: "{{ site.data.i18n.th.suggest_addition | default: '' }}",
   }
-  setTimeout(() => {
+
+  const page_not_found = {
+    vi: "{{ site.data.i18n.vi.page_not_found | default: '' }}",
+    es: "{{ site.data.i18n.es.page_not_found | default: '' }}",
+    id: "{{ site.data.i18n.id.page_not_found | default: '' }}",
+    th: "{{ site.data.i18n.th.page_not_found | default: '' }}",
+  }
+
+  const page_not_found_message = {
+    vi: "{{ site.data.i18n.vi.page_not_found_message | default: '' }}",
+    es: "{{ site.data.i18n.es.page_not_found_message | default: '' }}",
+    id: "{{ site.data.i18n.id.page_not_found_message | default: '' }}",
+    th: "{{ site.data.i18n.th.page_not_found_message | default: '' }}",
+  }
+
+  window.onload = () => {
     const home_link = document.querySelector(".back-to-home-text-container");
     const new_link = document.querySelector(".add-new-page-text-container");
     const lang = avail_lang.includes( pathname.replace('/lang/', '').split("/")[0]) ?  pathname.replace('/lang/', '').split("/")[0] : '' 
@@ -57,15 +72,23 @@ layout: default
     const new_file_link = `https://github.com/NeroYuki/osudroid-guide/new/main/docs/${dirname}?filename=${filename}&value=${default_content}`
 
     home_link.innerHTML = `<a href="{{ site.baseurl }}/lang/${lang}">${back_to_home[lang] || "Back to home"}</a>`
-    new_link.innerHTML = `<a href="${new_file_link}">${add_new_page[lang] || "Add new page"}</a>`
-  }, 1000)
+    new_link.innerHTML = `<a href="${new_file_link}">${suggest_addition[lang] || "Suggest addition of this page"}</a>`
+
+    if (page_not_found[lang]) {
+      document.querySelector(".page-not-found-text-container").innerHTML = page_not_found[lang]
+    }
+
+    if (page_not_found_message) {
+      document.querySelector(".page-not-found-message-text-container").innerHTML = page_not_found_message[lang]
+    }
+  }
 </script>
 
 <div class="container">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p><strong class="page-not-found-text-container">Page not found :(</strong></p>
+  <p class="page-not-found-message-text-container">The requested page could not be found.</p>
   <br/>
   <div class="back-to-home-text-container"></div>
   <br/>

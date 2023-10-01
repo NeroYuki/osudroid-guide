@@ -1,9 +1,9 @@
 <div class="outer-nav">
     <ul class="topnav">
-        <li><a class="active" href="{{ site.baseurl }}/guide/home">Guide</a></li>
-        <li><a href="{{ site.baseurl }}/help/home">Help</a></li>
-        <li><a href="{{ site.baseurl }}/community">Community</a></li>
-        <li><a href="{{ site.baseurl }}/resources/home">Resource</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
+        <li><a class="active" href="{{ site.baseurl }}{% if page.lang %}/lang/{{page.lang}}{% endif %}/guide/home">{{site.data.i18n[page.lang].guide | default: "Guide" }}</a></li>
+        <li><a href="{{ site.baseurl }}{% if page.lang %}/lang/{{page.lang}}{% endif %}/help/home">{{site.data.i18n[page.lang].help | default: "Help" }}</a></li>
+        <li><a href="{{ site.baseurl }}{% if page.lang %}/lang/{{page.lang}}{% endif %}/community">{{site.data.i18n[page.lang].community | default: "Community" }}</a></li>
+        <li><a href="{{ site.baseurl }}{% if page.lang %}/lang/{{page.lang}}{% endif %}/resources/home">{{site.data.i18n[page.lang].resource | default: "Resource" }}</a></li>
+        <li><a href="{{ site.baseurl }}{% if page.lang %}/lang/{{page.lang}}{% endif %}/about">{{site.data.i18n[page.lang].about | default: "About" }}</a></li>
     </ul>
 </div>
