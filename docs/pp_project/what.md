@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### I see the channel #elaina-pp-project on the server. What is that? Is that supposed to be a future pp system for the game?
 
 Elaina PP project is a very basic and hack-ish (hence the name “project”) pp system, commonly called “dpp” (acronym for “droid pp”), which was created and maintained by the server owners.

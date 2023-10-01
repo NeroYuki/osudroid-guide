@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### How do I improve at the game?
 
 There are many ways to accomplish this, such as:

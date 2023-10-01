@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### I keep getting java.net.ConnectException: Failed to connect to bloodcat.com/112.163.20.26:443 popup error when I am playing the game.
 
 **OUTDATED, THIS IS NOT LONGER SUPPORTED FROM 1.6.8 ONWARD**

@@ -1,7 +1,3 @@
----
-lang: vi
----
-
 {% include other_lang.md %}
 
 #### Game này có giống opsu! không?

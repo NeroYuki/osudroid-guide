@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### How do I set an avatar for my account?
 
 1. Go to this site and login with your osu!droid account credentials if you haven’t logged in yet.

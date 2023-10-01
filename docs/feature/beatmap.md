@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### How do I add/import beatmaps/songs?
 
 There are multiple ways to add or import songs, or what is colloquially known as beatmaps.

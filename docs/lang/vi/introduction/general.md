@@ -1,7 +1,3 @@
----
-lang: vi
----
-
 {% include other_lang.md %}
 
 #### Đây là game gì? Làm sao để chơi?

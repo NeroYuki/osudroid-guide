@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### How do I add/import skins?
 
 1. If you choose to create your own skin, it will be a long process. There are many tutorials on the internet on how you can make a skin for the game. Otherwise, you can go to https://tsukushi.site/ and select one that suits you. you can also request from players provided that they want to share their skin. It is not advised to download osu! (not osu!droid) skins as many of them are incompatible with the game.

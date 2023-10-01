@@ -1,7 +1,3 @@
----
-lang: vi
----
-
 {% include other_lang.md %}
 
 #### Tôi thấy osu!droid trên Google Play Store. Tôi nên tải phiên bản nào?

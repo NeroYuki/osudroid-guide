@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### How can I find my profile page on the website?
 
 To find your profile page, simply type /profile view usernamer:<username> in #bot-ground. If your account was found, an embed with a hyperlink to your profile page will be sent.

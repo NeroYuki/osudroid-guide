@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### What makes this pp system different from the pp system in the official game?
 
 The dpp system is based on the official pp system, which is based on ppv2. However, the dpp system has been adjusted to account for the gameplay environment of osu!droid, such as touchscreen, slightly different mod mechanics, and more.

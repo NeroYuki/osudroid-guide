@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### I cannot register an osu!droid account!
 
 Account registration is no longer possible to be done in-game and the functionality has been moved to the website. Please visit this page to perform registration.

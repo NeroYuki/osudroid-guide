@@ -1,7 +1,3 @@
----
-lang: vi
----
-
 {% include other_lang.md %}
 
 **Phiên bản ngôn ngữ tiếng việt đang được xây dựng**

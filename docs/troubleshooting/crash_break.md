@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### The game keeps crashing whenever I enter a significantly long break period in a beatmap.
 
 **OUTDATED: FIXED IN LATEST VERSION**

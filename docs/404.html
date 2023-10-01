@@ -17,9 +17,46 @@ layout: default
   }
 </style>
 
+<script>
+  console.log(location.pathname)
+  const avail_lang = ['vi', 'es']
+  const back_to_home = {
+    vi: "Trở về trang chủ",
+    es: "Volver a la página de inicio",
+  }
+
+  const add_new_page = {
+    vi: "Thêm nội dung cho trang này",
+    es: "Agregar contenido a esta página",
+  }
+  setTimeout(() => {
+    const home_link = document.querySelector(".back-to-home-text-container");
+    const new_link = document.querySelector(".add-new-page-text-container");
+    const lang = avail_lang.includes( location.pathname.replace('/lang/', '').split("/")[0]) ?  location.pathname.replace('/lang/', '').split("/")[0] : '' 
+    const filename = location.pathname.split('/').pop().replace('.html', '.md')
+    const dirname = location.pathname.split('/').slice(0, -1).join('/')
+
+    const default_content = encodeURI(`\{\% include other_lang.md \%\}
+    
+<!-- Add your content here -->
+
+\{\% include bottom_nav.md \%\}
+    `)
+
+    const new_file_link = `https://github.com/NeroYuki/osudroid-guide/new/main/docs/${dirname}?filename=${filename}&value=${default_content}`
+
+    home_link.innerHTML = `<a href="/lang/${lang}">${back_to_home[lang] || "Back to home"}</a>`
+    new_link.innerHTML = `<a href="${new_file_link}">${add_new_page[lang] || "Add new page"}</a>`
+  }, 1000)
+</script>
+
 <div class="container">
   <h1>404</h1>
 
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
+  <br/>
+  <div class="back-to-home-text-container"></div>
+  <br/>
+  <div class="add-new-page-text-container"></div>
 </div>

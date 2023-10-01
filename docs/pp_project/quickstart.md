@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### Getting started with Elaina PP Project
 
 To get started with Elaina PP Project, you will need an osu!droid account.

@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### Can I change my registered email, password, and in-game name?
 
 For registered email and password:

@@ -1,7 +1,3 @@
----
-lang: vi
----
-
 {% include other_lang.md %}
 
 #### Tôi có thể tải và cài đặt game ở đâu? Game có an toàn không?

@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### I’ve lost my account/account credentials! Can I retrieve it back?
 
 If you forget your password, you can go to http://ops.dgsrz.com/user?action=reset to reset your password.

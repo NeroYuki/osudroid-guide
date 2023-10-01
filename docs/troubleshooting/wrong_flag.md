@@ -1,3 +1,5 @@
+{% include other_lang.md %}
+
 #### My osu!droid profile page shows the wrong location/flag or no flag at all.
 
 The osu!droid game server tracks your location (which is what your country flag is based on) based on your IP address. If you want to change your flag, you will need to change your location. This is how you do it:
