@@ -14,3 +14,5 @@ Phần FAQ cũ (vẫn còn để đó để đóng góp)
     - [Game này có giống opsu! không?]({{ site.baseurl }}/lang/vi/introduction/opsu)
     - [Game này có cho iOS không?]({{ site.baseurl }}/lang/vi/introduction/ios)
     - [Tôi thấy osu!droid trên Google Play Store. Tôi nên tải phiên bản nào?]({{ site.baseurl }}/lang/vi/introduction/playstore)
+
+{% include bottom_nav.md %}

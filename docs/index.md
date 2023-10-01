@@ -46,3 +46,5 @@ Legacy FAQ section (still up for contribution)
     - [The game keeps crashing whenever I enter a significantly long break period in a beatmap.]({{ site.baseurl }}/troubleshooting/crash_break)
     - [I cannot register an osu!droid account!]({{ site.baseurl }}/troubleshooting/cant_register)
     - [My osu!droid profile page shows the wrong location/flag or no flag at all.]({{ site.baseurl }}/troubleshooting/wrong_flag)
+
+    {% include bottom_nav.md %}
