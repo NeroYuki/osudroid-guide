@@ -20,15 +20,17 @@ layout: default
 <script>
   console.log(location.pathname)
   const pathname = location.pathname.replace('/osudroid-guide', '')
-  const avail_lang = ['vi', 'es']
+  const avail_lang = ['vi', 'es', 'id']
   const back_to_home = {
     vi: "Trở về trang chủ",
     es: "Volver a la página de inicio",
+    id: "Kembali ke halaman utama",
   }
 
   const add_new_page = {
     vi: "Thêm nội dung cho trang này",
     es: "Agregar contenido a esta página",
+    id: "Tambahkan konten ke halaman ini",
   }
   setTimeout(() => {
     const home_link = document.querySelector(".back-to-home-text-container");
