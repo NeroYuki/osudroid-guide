@@ -7,7 +7,7 @@ A guide for osu!droid (and beyond)
 You can suggest changes via the website and you will be redirected to that page's editor. The editor should follow the Jekyll markdown format (see the cheatsheet [here](https://itopaloglu83.github.io/Jekyll-Markdown-Cheat-Sheet/)). After that if there is a big green button, just hit it until you have made a "Pull Request". And you are done!
 
 **Simplified terminology:**
-- Fork: your copy of the site (your edit will be there first, obviously i can just allow you to straight up edit the site lol)
+- Fork: your copy of the site (your edit will be there first, obviously I can't just allow you to straight up edit the site lol)
 - Pull Request: your request to change the page with your change
 
 ### For programmer with the know-how
