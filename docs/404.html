@@ -38,7 +38,13 @@ layout: default
     const home_link = document.querySelector(".back-to-home-text-container");
     const new_link = document.querySelector(".add-new-page-text-container");
     const lang = avail_lang.includes( pathname.replace('/lang/', '').split("/")[0]) ?  pathname.replace('/lang/', '').split("/")[0] : '' 
-    const filename = pathname.split('/').pop().replace('.html', '.md')
+    let filename = pathname.split('/').pop().replace('.html', '.md')
+
+    // if filename doesnt end with md, add .md
+    if (!filename.endsWith('.md')) {
+      filename += '.md'
+    }
+
     const dirname = pathname.split('/').slice(0, -1).join('/')
 
     const default_content = encodeURI(`\{\% include other_lang.md \%\}
