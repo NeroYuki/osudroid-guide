@@ -23,3 +23,9 @@ defaults:
       type: "pages"
     values:
       lang: "es"
+  -
+    scope:
+      path: "lang/th"
+      type: "pages"
+    values:
+      lang: "th"
