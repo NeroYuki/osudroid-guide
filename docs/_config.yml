@@ -11,3 +11,15 @@ defaults:
       type: "pages"
     values:
       lang: "vi"
+  -
+    scope:
+      path: "lang/id"
+      type: "pages"
+    values:
+      lang: "id"
+  -
+    scope:
+      path: "lang/es"
+      type: "pages"
+    values:
+      lang: "es"
