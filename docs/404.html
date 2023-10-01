@@ -48,7 +48,7 @@ layout: default
 
     const new_file_link = `https://github.com/NeroYuki/osudroid-guide/new/main/docs/${dirname}?filename=${filename}&value=${default_content}`
 
-    home_link.innerHTML = `<a href="/lang/${lang}">${back_to_home[lang] || "Back to home"}</a>`
+    home_link.innerHTML = `<a href="{{ site.baseurl }}/lang/${lang}">${back_to_home[lang] || "Back to home"}</a>`
     new_link.innerHTML = `<a href="${new_file_link}">${add_new_page[lang] || "Add new page"}</a>`
   }, 1000)
 </script>
