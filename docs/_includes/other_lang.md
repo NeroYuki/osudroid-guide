@@ -1,0 +1,1 @@
+[English]({{ site.baseurl }}{{ page.url | remove_first: "/lang/" | remove_first: page.lang }}) | [Tiếng Việt]({{ site.baseurl }}/lang/vi{{ page.url | remove_first: "/lang/" | remove_first: page.lang }}) | [Español]({{ site.baseurl }}/lang/es{{ page.url | remove_first: "/lang/" | remove_first: page.lang }})
