@@ -19,6 +19,7 @@ layout: default
 
 <script>
   console.log(location.pathname)
+  const pathname = location.pathname.replace('/osudroid-guide', '')
   const avail_lang = ['vi', 'es']
   const back_to_home = {
     vi: "Trở về trang chủ",
@@ -32,9 +33,9 @@ layout: default
   setTimeout(() => {
     const home_link = document.querySelector(".back-to-home-text-container");
     const new_link = document.querySelector(".add-new-page-text-container");
-    const lang = avail_lang.includes( location.pathname.replace('/lang/', '').split("/")[0]) ?  location.pathname.replace('/lang/', '').split("/")[0] : '' 
-    const filename = location.pathname.split('/').pop().replace('.html', '.md')
-    const dirname = location.pathname.split('/').slice(0, -1).join('/')
+    const lang = avail_lang.includes( pathname.replace('/lang/', '').split("/")[0]) ?  pathname.replace('/lang/', '').split("/")[0] : '' 
+    const filename = pathname.split('/').pop().replace('.html', '.md')
+    const dirname = pathname.split('/').slice(0, -1).join('/')
 
     const default_content = encodeURI(`\{\% include other_lang.md \%\}
     
