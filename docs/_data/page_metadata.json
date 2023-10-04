@@ -1,0 +1,37 @@
+[
+    {
+        "category": "guide",
+        "title": "osu!droid Quickstart Guide",
+        "path": "/guide/quickstart",
+        "description": "OSU!DROID QUICKSTART 100% NO DEATH SPEEDRUN",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "category": "guide",
+        "title": "Setting up osu!droid",
+        "path": "/guide/setup",
+        "description": "Explore options and settings in osu!droid",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "category": "guide",
+        "title": "Getting more beatmap",
+        "path": "/guide/beatmap",
+        "description": "How to get more beatmap in osu!droid",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "category": "guide",
+        "title": "Skin Customization",
+        "path": "/guide/skin",
+        "description": "Customize your osu!droid skin",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "category": "guide",
+        "title": "osu!droid Playstyle",
+        "path": "/guide/playstyle",
+        "description": "How to play osu!droid",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    }
+]

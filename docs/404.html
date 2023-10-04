@@ -69,16 +69,16 @@ layout: default
 \{\% include bottom_nav.md \%\}
     `)
 
-    const new_file_link = `https://github.com/NeroYuki/osudroid-guide/new/main/docs/${dirname}?filename=${filename}&value=${default_content}`
+    const new_file_link = `https://github.com/NeroYuki/osudroid-guide/new/main/docs${dirname}?filename=${filename}&value=${default_content}`
 
-    home_link.innerHTML = `<a href="{{ site.baseurl }}/lang/${lang}">${back_to_home[lang] || "Back to home"}</a>`
+    home_link.innerHTML = `<a href="{{ site.baseurl }}/${(lang ? "lang/" : "") + lang}">${back_to_home[lang] || "Back to home"}</a>`
     new_link.innerHTML = `<a href="${new_file_link}">${suggest_addition[lang] || "Suggest addition of this page"}</a>`
 
     if (page_not_found[lang]) {
       document.querySelector(".page-not-found-text-container").innerHTML = page_not_found[lang]
     }
 
-    if (page_not_found_message) {
+    if (page_not_found_message[lang]) {
       document.querySelector(".page-not-found-message-text-container").innerHTML = page_not_found_message[lang]
     }
   }
