@@ -18,7 +18,7 @@ Ten en cuenta que este proceso solo se puede hacer desde el servidor de Discord 
     - /pp submit recent amount:7 (debido a que solo se pueden subir hasta 5 plays a la vez de esta manera, no puedes usar mas de 5 en el comando)
     - /pp submit recent amount:5 offset:49 (debirdo a que solo se pueden subir las 50 plays mas recientes, deberias usar "offset:46" para subir 5 plays desde la 45 hasta la ultima mas reciente)
 
-- Si quieres subir todas tus plays anteriores, porfavor contacta con un @Language Helper, @Language moderator o @Golbal Moderator en el servidor de Discord.
+- Si quieres subir todas tus plays anteriores, porfavor contacta con un @Language Helper, @Language moderator o @Global Moderator en el servidor de Discord.
 - Solo se pueden subir mapas Ranked/Loved/Whitelisted para conseguir pp de estos.
 
 3. Para ver tu lista de plays, usa "/pp check" 
