@@ -33,5 +33,33 @@
         "path": "/guide/playstyle",
         "description": "How to play osu!droid",
         "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "category": "guide",
+        "title": "developing",
+        "path": "/guide/developing",
+        "description": "Placeholder",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "category": "help",
+        "title": "multitouch",
+        "path": "/help/multitouch",
+        "description": "Placeholder",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "category": "resources",
+        "title": "archived_version",
+        "path": "/resources/archived_version",
+        "description": "Placeholder",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "category": "resources",
+        "title": "skin",
+        "path": "/resources/skin",
+        "description": "Placeholder",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
     }
 ]
