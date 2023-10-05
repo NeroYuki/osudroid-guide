@@ -29,3 +29,15 @@ defaults:
       type: "pages"
     values:
       lang: "th"
+  -
+    scope:
+      path: "lang/kr"
+      type: "pages"
+    values:
+      lang: "kr"
+  -
+    scope:
+      path: "lang/zh"
+      type: "pages"
+    values:
+      lang: "zh"

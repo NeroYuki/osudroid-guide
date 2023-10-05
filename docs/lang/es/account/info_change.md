@@ -6,7 +6,7 @@ Para email/contraseña registrada:
 
 1. Ves a esta pagina e inicia sesion con los datos de tu cuenta de osu!droid (Nombre de usuario y contraseña).
 2. Cuando hayas iniciado sesion, ves a "Opciones". Desde ahi puedes cambiar el email y la contraseña.
-![Alt text](image.png "Este es el boton que tienes que presionar para ver las opciones para cambiar el email y la contraseña")
+![Alt text]({{site.baseurl}}/assets/images/image.png "Este es el boton que tienes que presionar para ver las opciones para cambiar el email y la contraseña")
 
 El boton que necesitas presionar despues de iniciar sesion en la pagina.
 Ten en cuenta que **no puedes cambiar tu email si ese email esta conectado a otra cuenta del juego**.
