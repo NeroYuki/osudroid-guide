@@ -1,4 +1,4 @@
--{% include other_lang.md %}
+{% include other_lang.md %}
 
 #### ¿Como puedo cambiar el avatar de mi cuenta?
 
