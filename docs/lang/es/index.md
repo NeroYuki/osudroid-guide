@@ -33,9 +33,9 @@ Seccion FAQ Legacy (se sigue pudiendo contribuir)
     - [¿Porque veo pp en la leaderboard? ¿Hay un sistema de pp en osu!droid?]({{ site.baseurl }}/lang/es/ranking/where_pp)
     - [¿Habra un sistema de pp dentro del juego?]({{ site.baseurl }}/lang/es/ranking/pp_hopium)
 - Elaina PP Project
-    - [Veo un canal llamado #elaina-pp-project en el servidor de Discord. ¿Que es eso? ¿Sera un sistema de pp para el juego en el futuro?]({{ site.baseurl }}/es/pp_project/what)
-    - [Empezando con Elaina PP Project]({{ site.baseurl }}/lang/ es/pp_project/quickstart)
-    - [¿Que hace a este sistema de pp diferente al de osu!?]({{ site.baseurl }}/es/pp_project/differences)
+    - [Veo un canal llamado #elaina-pp-project en el servidor de Discord. ¿Que es eso? ¿Sera un sistema de pp para el juego en el futuro?]({{ site.baseurl }}/lang/es/pp_project/what)
+    - [Empezando con Elaina PP Project]({{ site.baseurl }}/lang/es/pp_project/quickstart)
+    - [¿Que hace a este sistema de pp diferente al de osu!?]({{ site.baseurl }}/lang/es/pp_project/differences)
     - [¿Que es "Whitelist"?]({{ site.baseurl }}/lang/es/pp_project/whitelist)
 - Problemas y soluciones
     - [Mi cursor se fusiona con los demas cursores cuando empiezo un stream o cuando acerco mi dedo de apuntado a mis dedos de stream]({{ site.baseurl }}/lang/es/troubleshooting/merged_cursor)
