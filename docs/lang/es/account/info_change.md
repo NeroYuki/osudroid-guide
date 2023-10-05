@@ -1,10 +1,10 @@
 {% include other_lang.md %}
 
-#### ¿Puedo cambiar el email/constrasela/nombre de usuario?
+#### ¿Puedo cambiar el email/contraseña/nombre de usuario?
 
 Para email/contraseña registrada: 
 
-1. Ves a esta pagina y inicia sesion con los datos de tu cuenta de osu!droid (Nombre de usuario y contraseña).
+1. Ves a esta pagina e inicia sesion con los datos de tu cuenta de osu!droid (Nombre de usuario y contraseña).
 2. Cuando hayas iniciado sesion, ves a "Opciones". Desde ahi puedes cambiar el email y la contraseña.
 ![Alt text](image.png "Este es el boton que tienes que presionar para ver las opciones para cambiar el email y la contraseña")
 

@@ -1,6 +1,6 @@
 {% include other_lang.md %}
 
-#### ¿Hay una leaderboard general donde pueda ver las puntuaciones de los top players?
+#### ¿Hay una leaderboard general donde pueda ver las puntuaciones de los mejores jugadores?
 
 Si, puedes ir a https://osudroid.moe/. Aunque en esa leaderboard solo aparecen los jugadores dentro del top 100.
 
