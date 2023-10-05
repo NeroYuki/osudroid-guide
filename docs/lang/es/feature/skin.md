@@ -4,7 +4,7 @@
 
 1. Si eliges crear tu propia skin, sera un proceso algo largo y tedioso. Hay muchos tutoriales sobre como crear tu proia skin para el juego. De otra forma, puedes ir a https://tsukushi.site/ y descargar una skin desde esa pagina, la que mas te guste, tambien puedes preguntar a los jugadores para compartir su skin. No se recomienda que descargues una skin de osu! para usarla en osdroid ya que probablemente esta no este optimizada para el juego. 
 
-2. Si has activado la opcion de "Escanear directorio de descargas" puedes descargar una skin optimizada para osudroid en (.osk) y abrir el juego, y automaticamente se importara la skin desde el archivo (.osk)
+2. Si has activado la opcion de "Escanear directorio de descargas" puedes descargar una skin optimizada para osu!droid en (.osk) y abrir el juego, y automaticamente se importara la skin desde el archivo (.osk)
 
 *Hay algunos casos en los que el juego no lo importara automaticamente. Poe ejemplo si el directorio de skins estan en una tarjeta SD. Si este es tu caso, sigue con el paso 3.*
 

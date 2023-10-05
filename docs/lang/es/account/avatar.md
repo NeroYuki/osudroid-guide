@@ -2,7 +2,7 @@
 
 #### ¿Como puedo cambiar el avatar de mi cuenta?
 
-1. Ve a este sitio y inicia sesion con tus credenciales de tu cuenta de osudroid si aun no has iniciado sesion.
+1. Ve a este sitio y inicia sesion con tus credenciales de tu cuenta de osu!droid si aun no has iniciado sesion.
 2. Abre el cajon del lado izquierdo y dale a "Perfil".
 3. Presiona "seleccionar archivo" y elije una imagen para usarla como avatar. Ten en cuenta que hay un limite de tamaño de 1mb.
 4. Recorta tu imagen con las herramientas proporcionadas si es necesario.

@@ -1,6 +1,6 @@
 {% include other_lang.md %}
 
-#### ¿Es osudroid lo mismo que opsu!?
+#### ¿Es osu!droid lo mismo que opsu!?
 
 No, este juego es diferente a opsu!. Los dos tienen diferencias notables entre si.
 

@@ -2,7 +2,7 @@
 
 ## Guía de osu!droid
 
-Bienvenid@ a la guía para osu!droid, el sitio al que puedes visitar para todo tipo de dudas que tengas sobre el juego. Esta guia esta pensada para ayudar tanto a nuevos jugadores como jugadores ya existentes con cualquier tipo de problema que puedan tener. Tambien, esta pensada para reemplazar la seccion de preguntas y respuestas de la pagina de wordpress para osudroid.
+Bienvenid@ a la guía para osu!droid, el sitio al que puedes visitar para todo tipo de dudas que tengas sobre el juego. Esta guia esta pensada para ayudar tanto a nuevos jugadores como jugadores ya existentes con cualquier tipo de problema que puedan tener. Tambien, esta pensada para reemplazar la seccion de preguntas y respuestas de la pagina de wordpress para osu!droid.
 
 Esta guia aun sigue en progreso. Si tienes alguna sugerencia o feedback, porfavor sientete libre de abrir un post o hacer un pull request en el repositorio de [GitHub](https://github.com/NeroYuki/osudroid-guide)
 
@@ -11,7 +11,7 @@ Seccion FAQ Legacy (se sigue pudiendo contribuir)
 - Introduccion
     - [¿De que trata este juego? Como se juega?]({{ site.baseurl }}/es/introduction/general)
     - [¿Donde puedo descargar e instalar el juego? ¿Es seguro hacerlo?]({{ site.baseurl }}/introduction/download)
-    - [¿Es osudroid lo mismo que opsu!?]({{ site.baseurl }}/es/introduction/opsu)
+    - [¿Es osu!droid lo mismo que opsu!?]({{ site.baseurl }}/es/introduction/opsu)
     - [¿Puedo jugar al juego en IOS?]({{ site.baseurl }}/es/introduction/ios)
     - [Veo que osu!droid esta en la Google PlayStore, ¿cual deberia instalar?]({{ site.baseurl }}/es/introduction/playstore)
 
@@ -26,8 +26,8 @@ Seccion FAQ Legacy (se sigue pudiendo contribuir)
     [¿Necesito registrar una cuenta para poder jugar?]({{ site.baseurl }}/es/account/is_required)
     - [¿Como puedo crar una cuenta?]({{ site.baseurl }}/es/account/create_account)
     - [¿Como puedo cambiar el avatar de mi cuenta?]({{ site.baseurl }}/es/account/avatar)
-    - [¿Como encuentro la pagina de mi perfil en la pagina de osudroid?]({{ site.baseurl }}/es/account/find_profile)
-    - [¿Puedo usar mi cuenta de osu! para jugar osudroid?]({{ site.baseurl }}/es/account/osu_account)
+    - [¿Como encuentro la pagina de mi perfil en la pagina de osu!droid?]({{ site.baseurl }}/es/account/find_profile)
+    - [¿Puedo usar mi cuenta de osu! para jugar osu!droid?]({{ site.baseurl }}/es/account/osu_account)
     - [¿Puedo cambiar el email/constrasela/nombre de usuario?]({{ site.baseurl }}/es/account/info_change)
     - [He perdido mi cuenta/informacion de inicio de sesion! ¿Puedo conseguirlos de vuelta?]({{ site.baseurl }}/es/account/forgot_password)
 
@@ -35,7 +35,7 @@ Seccion FAQ Legacy (se sigue pudiendo contribuir)
 
     - [¿Como funciona el sistema de ranking?]({{ site.baseurl }}/es/ranking/general)
     - [¿Hay una leaderboard general donde pueda ver las puntuaciones de los top players?]({{ site.baseurl }}/es/ranking/leaderboard)
-    - [¿Porque veo pp en la leaderboard? ¿Hay un sistema de pp en osudroid?]({{ site.baseurl }}/es/ranking/where_pp)
+    - [¿Porque veo pp en la leaderboard? ¿Hay un sistema de pp en osu!droid?]({{ site.baseurl }}/es/ranking/where_pp)
     - [¿Habra un sistema de pp dentro del juego?]({{ site.baseurl }}/es/ranking/pp_hopium)
 
 - Elaina PP Project
@@ -59,7 +59,7 @@ Seccion FAQ Legacy (se sigue pudiendo contribuir)
 
     - [El juego crashea cuando empieza una espera significativamente larga dentro de un mapa]({{ site.baseurl }}/es/troubleshooting/crash_break)
 
-    - [No puedo registrar una cuenta de osudroid!]({{ site.baseurl }}/es/troubleshooting/cant_register)
+    - [No puedo registrar una cuenta de osu!droid!]({{ site.baseurl }}/es/troubleshooting/cant_register)
 
     - [Mi perfi muestra una localizacion/bandera erronea o directamente no muestra ninguna]({{ site.baseurl }}/es/troubleshooting/wrong_flag)
 

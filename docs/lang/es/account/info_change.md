@@ -4,7 +4,7 @@
 
 Para email/contraseña registrada: 
 
-1. Ves a esta pagina y inicia sesion con los datos de tu cuenta de osudroid (Nombre de usuario y contraseña).
+1. Ves a esta pagina y inicia sesion con los datos de tu cuenta de osu!droid (Nombre de usuario y contraseña).
 2. Cuando hayas iniciado sesion, ves a "Opciones". Desde ahi puedes cambiar el email y la contraseña.
 ![Alt text](image.png "Este es el boton que tienes que presionar para ver las opciones para cambiar el email y la contraseña")
 

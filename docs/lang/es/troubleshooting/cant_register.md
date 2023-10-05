@@ -1,6 +1,6 @@
 {% include other_lang.md %}
 
-#### No puedo registrar una cuenta de osudroid!
+#### No puedo registrar una cuenta de osu!droid!
 
 Ya no se puede crear una cuenta desde el juego, por lo tanto es necesario hacerlo desde la pagina del juego. Porfavor ves a https://osudroid.moe para crear tu cuenta.
 

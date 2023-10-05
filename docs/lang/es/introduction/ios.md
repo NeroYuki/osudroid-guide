@@ -2,7 +2,7 @@
 
 #### ¿Puedo jugar al juego en IOS?
 
-No, osudroid no esta disponible para IOS (en el propio nombre se indica que es solo para Android)
+No, osu!droid no esta disponible para IOS (en el propio nombre se indica que es solo para Android)
 
 <!-- Don't touch this part thank you -->
 {% include bottom_nav.md %}

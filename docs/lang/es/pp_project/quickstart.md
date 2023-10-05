@@ -2,7 +2,7 @@
 
 #### Empezando con Elaina PP Project
 
-Para empezar con Elaina PP Project, necesitaras una cuenta de osudroid.
+Para empezar con Elaina PP Project, necesitaras una cuenta de osu!droid.
 Ten en cuenta que este proceso solo se puede hacer desde el servidor de Discord en #elaina-pp-project o #bot-ground.
 
 1. Si aun no lo has hecho, necesitas vincular tu cuenta del juego con la de Discord. Ves a uno de los canales ya mencionados y escribe "/userbind" para vincular tu cuenta. Necesitaras especificar tu email en la opcion proporcionada.

@@ -11,7 +11,7 @@ Para empezar, necesitas descargar un mapset, el cual puede contener multiplas ma
 - Sayobot
 - Beatconnect
 
-Ten en cuenta que solo puedes importar mapas de osu!standard (el modo de juego standard) Si has descargado un mapset que tiene mapas para otros modos de juego, estos no se importaran en osudroid. Puedes verificar que un mapa este hecho para standard con estos iconos:
+Ten en cuenta que solo puedes importar mapas de osu!standard (el modo de juego standard) Si has descargado un mapset que tiene mapas para otros modos de juego, estos no se importaran en osu!droid. Puedes verificar que un mapa este hecho para standard con estos iconos:
 
 - Pagina oficial de osu!
 ![osu! map panel](/docs/feature/image-1.png)
