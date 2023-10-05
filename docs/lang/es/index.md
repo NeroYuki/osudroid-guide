@@ -20,7 +20,7 @@ Seccion FAQ Legacy (se sigue pudiendo contribuir)
     - [¿Como puedo ver las tablas de clasificacion (leaderboards) desde el juego?]({{ site.baseurl }}/lang/es/feature/leaderboard)
     - [¿Como puedo mejorar en el juego?]({{ site.baseurl }}/lang/es/feature/git_gud)
 - Gestion de la cuenta
-    [¿Necesito registrar una cuenta para poder jugar?]({{ site.baseurl }}/lang/es/account/is_required)
+    - [¿Necesito registrar una cuenta para poder jugar?]({{ site.baseurl }}/lang/es/account/is_required)
     - [¿Como puedo crear una cuenta?]({{ site.baseurl }}/lang/es/account/create_account)
     - [¿Como puedo cambiar el avatar de mi cuenta?]({{ site.baseurl }}/lang/es/account/avatar)
     - [¿Como encuentro la pagina de mi perfil en la pagina de osu!droid?]({{ site.baseurl }}/lang/es/account/find_profile)
