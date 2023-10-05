@@ -28,7 +28,7 @@ Una vez has descargado el mapa/mapset, tienes varias opciones:
 
 1. Si has descargado el mapa/mapset desde Chimu, deberia importarse automaticamente en cuanto la descarga haya terminado. No necesitas hacer nada mas!
 
-2. Puedes abrir el juego, e ir a las opciones de Libreria, luego activar la opcion de "Escanear directorio de descargas", la cual importara el mapa/mapset que hayas descargado una vez habras el menu de mapas dentro del juego.
+2. Puedes abrir el juego, e ir a las opciones de Libreria, luego activar la opcion de "Escanear directorio de descargas", la cual importara el mapa/mapset que hayas descargado una vez abras el menu de mapas dentro del juego.
 
 3. Puedes extraer manualmente los archivos dentro del (.osz) y moverlos manualmente a la carpeta de mapas. Puedes verificar el directorio de los mapas desde las opciones del juego -> Libreria -> Directorio de mapas. Por defecto, el directorio es "/osu!droid/Songs/" 
 ![scan download option]({{site.baseurl}}/assets/images/image-5.png)
