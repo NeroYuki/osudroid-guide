@@ -20,12 +20,14 @@ layout: default
 <script>
   console.log(location.pathname)
   const pathname = location.pathname.replace('/osudroid-guide', '')
-  const avail_lang = ['vi', 'es', 'id', 'th']
+  const avail_lang = ['vi', 'es', 'id', 'th', 'kr', 'zh']
   const back_to_home = {
     vi: "{{ site.data.i18n.vi.back_to_home | default: '' }}",
     es: "{{ site.data.i18n.es.back_to_home | default: '' }}",
     id: "{{ site.data.i18n.id.back_to_home | default: '' }}",
     th: "{{ site.data.i18n.th.back_to_home | default: '' }}",
+    kr: "{{ site.data.i18n.kr.back_to_home | default: '' }}",
+    zh: "{{ site.data.i18n.zh.back_to_home | default: '' }}",
   }
 
   const suggest_addition = {
@@ -33,6 +35,8 @@ layout: default
     es: "{{ site.data.i18n.es.suggest_addition | default: '' }}",
     id: "{{ site.data.i18n.id.suggest_addition | default: '' }}",
     th: "{{ site.data.i18n.th.suggest_addition | default: '' }}",
+    kr: "{{ site.data.i18n.kr.suggest_addition | default: '' }}",
+    zh: "{{ site.data.i18n.zh.suggest_addition | default: '' }}",
   }
 
   const page_not_found = {
@@ -40,6 +44,8 @@ layout: default
     es: "{{ site.data.i18n.es.page_not_found | default: '' }}",
     id: "{{ site.data.i18n.id.page_not_found | default: '' }}",
     th: "{{ site.data.i18n.th.page_not_found | default: '' }}",
+    kr: "{{ site.data.i18n.kr.page_not_found | default: '' }}",
+    zh: "{{ site.data.i18n.zh.page_not_found | default: '' }}",
   }
 
   const page_not_found_message = {
@@ -47,6 +53,8 @@ layout: default
     es: "{{ site.data.i18n.es.page_not_found_message | default: '' }}",
     id: "{{ site.data.i18n.id.page_not_found_message | default: '' }}",
     th: "{{ site.data.i18n.th.page_not_found_message | default: '' }}",
+    kr: "{{ site.data.i18n.kr.page_not_found_message | default: '' }}",
+    zh: "{{ site.data.i18n.zh.page_not_found_message | default: '' }}",
   }
 
   window.onload = () => {

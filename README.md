@@ -26,3 +26,14 @@ Please note that the page directory is /docs and default baseurl is /osudroid-gu
 
 **Notes on dealing with linking image file:**
 - Remote image linking should be avoided, please upload image to `/docs/assets/images` and link it from there using `{{site.baseurl}}/assets/images/<filename>`.
+
+#### Note-to-self
+
+**Adding new language checklist:**
+
+[] Clone pages from default language to designated /lang/(lang) folder
+[] Change the language's `index.md`
+[] Add new language to `_config.yml`
+[] Add new localization file in `_data/i18` folder
+[] Update `other_lang.md` file to include new language
+[] Update `404.html` file to include new language
