@@ -14,7 +14,7 @@ You can suggest changes via the website and you will be redirected to that page'
 - Pull Request: your request to change the page with your change
 
 **Notes on dealing with linking image file:**
-- Remote image linking should be avoided, but if you don't know how to do it, just do it. I will fix it later.
+- Remote image linking (something like `![osu logo](https://osudroid.moe/assets/img/logo.png)`) should be avoided in favor of local linking, but if you don't know how to do it, just use remote image linking for now, I will fix it later.
 - If you are translating a page, please copy the image link (something like `![sayo map panel]({{site.baseurl}}/assets/images/image-2.png)`) EXACTLY into the translated version
 
 **Note on liquid template language:**
