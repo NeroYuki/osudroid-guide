@@ -16,7 +16,7 @@ Seccion FAQ Legacy (se sigue pudiendo contribuir)
     - [Veo que osu!droid esta en la Google PlayStore, ¿cual deberia instalar?]({{ site.baseurl }}/lang/es/introduction/playstore)
 - Caracteristicas del juego
     - [¿Como puedo añadir/importar mapas?]({{ site.baseurl }}/lang/es/feature/beatmap)
-    - [¿Como puedo añadir/importar skins?]({{ site.baseurl }}/lang/es/feature/beatmap)
+    - [¿Como puedo añadir/importar skins?]({{ site.baseurl }}/lang/es/feature/skin)
     - [¿Como puedo ver las tablas de clasificacion (leaderboards) desde el juego?]({{ site.baseurl }}/lang/es/feature/leaderboard)
     - [¿Como puedo mejorar en el juego?]({{ site.baseurl }}/lang/es/feature/git_gud)
 - Gestion de la cuenta
