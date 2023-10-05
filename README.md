@@ -31,9 +31,9 @@ Please note that the page directory is /docs and default baseurl is /osudroid-gu
 
 **Adding new language checklist:**
 
-[] Clone pages from default language to designated /lang/(lang) folder
-[] Change the language's `index.md`
-[] Add new language to `_config.yml`
-[] Add new localization file in `_data/i18` folder
-[] Update `other_lang.md` file to include new language
-[] Update `404.html` file to include new language
+- [ ] Clone pages from default language to designated /lang/(lang) folder
+- [ ] Change the language's `index.md`
+- [ ] Add new language to `_config.yml`
+- [ ] Add new localization file in `_data/i18` folder
+- [ ] Update `other_lang.md` file to include new language
+- [ ] Update `404.html` file to include new language
