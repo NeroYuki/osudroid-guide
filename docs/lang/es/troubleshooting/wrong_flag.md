@@ -1,10 +1,10 @@
 {% include other_lang.md %}
 
-#### Mi perfi muestra una localizacion/bandera erronea o directamente no muestra ninguna
+#### Mi perfil muestra una localizacion/bandera erronea o directamente no muestra ninguna
 
-El servidor del juego obtiene la localizacion de tu cuenta basado en tu direccion IP. Si quieres cambiar tu bandera necesitaras cambiar tu localizacion con una VPN o cambiar de conexion WI-FI a datos moviles y viceversa. Luego simplemente juega un mapa (estando conectado al servidor del juego).
+El servidor del juego obtiene la localización de tu cuenta basado en tu dirección IP. Si quieres cambiar tu bandera necesitarás cambiar tu localización con una VPN o cambiar de conexion WI-FI a datos moviles y viceversa. Luego simplemente juega un mapa (estando conectado al servidor del juego).
 
-*Si tu localizacion sigue sin cambiar o cambia a una incorrecta, necesitaras usar una VPN que tenga servidores en la localicacion que quieres usar, aunque generalmente, cambiar a datos moviles suele funcionar.*
+*Si tu localización sigue sin cambiar o cambia a una incorrecta, necesitarás usar una VPN que tenga servidores en la localización que quieres usar, aunque generalmente, cambiar a datos moviles suele funcionar.*
 
 ¡Eso es todo!
 
