@@ -30,7 +30,7 @@ Legacy FAQ section (still up for contribution)
 - Ranking System
     - [How does the ranking system work?]({{ site.baseurl }}/ranking/general)
     - [Is there an overall leaderboard where I can see the top players with the most scores?]({{ site.baseurl }}/ranking/leaderboard)
-    - [Why do I see pp in the leaderboard? Is there a pp system in osu!droid?]({{ site.baseurl }}/ranking/where_pp)
+    - [Is there a pp system in osu!droid?]({{ site.baseurl }}/ranking/where_pp)
     - [Will there ever be an actual pp system in the game?]({{ site.baseurl }}/ranking/pp_hopium)
 - Elaina PP Project
     - [I see the channel #elaina-pp-project on the server. What is that? Is that supposed to be a future pp system for the game?]({{ site.baseurl }}/pp_project/what)
