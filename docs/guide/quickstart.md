@@ -41,3 +41,5 @@ description: OSU!DROID 100% GETTING STARTED NO DEATH SPEEDRUN
     ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-190815.png)
 
 That's it. You have installed the game, get beatmaps, play them and submit the score to the online database. The rest is up to you. Good luck!
+
+{% include bottom_nav.md %}
