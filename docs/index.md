@@ -36,7 +36,7 @@ Legacy FAQ section (still up for contribution)
     - [I see the channel #elaina-pp-project on the server. What is that? Is that supposed to be a future pp system for the game?]({{ site.baseurl }}/pp_project/what)
     - [Getting started with Elaina PP Project]({{ site.baseurl }}/pp_project/quickstart)
     - [What makes this pp system different from the pp system in the official game?]({{ site.baseurl }}/pp_project/differences)
-    - [What is whitelist?]({{ site.baseurl }}/pp_project/whitelist)
+    - [What is "whitelist"?]({{ site.baseurl }}/pp_project/whitelist)
 - Problems/Troubleshooting
     - [My cursor merges with each other when I stream or when my aim finger gets close to my streaming fingers.]({{ site.baseurl }}/troubleshooting/merged_cursor)
     - [My cursor gets stuck every time I try to stream.]({{ site.baseurl }}/troubleshooting/stuck_cursor)
