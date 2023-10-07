@@ -61,5 +61,19 @@
         "path": "/resources/skin",
         "description": "Placeholder",
         "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "title": "osu!droid on SD Card\r",
+        "description": "A guide on how to utilize your SD card for osu!droid\r",
+        "category": "help",
+        "path": "/help/sdcard",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "title": "Differences between osu! and osu!droid\r",
+        "description": "A (not really) comprehensive list of differences between osu! and osu!droid.\r",
+        "category": "resources",
+        "path": "/resources/osudiff",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
     }
 ]
