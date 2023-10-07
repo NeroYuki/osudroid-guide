@@ -2,7 +2,7 @@
 
 #### Where can I download and install the game? Is this game safe?
 
-Yes! This application is safe. You can go to [this page](https://osudroid.moe/) to find the list of versions that have been released, then click on assets to download the Android package (.apk) file. After that, you can install the game.
+Yes! This game is safe. You can go to [this](https://osudroid.moe/) page and click "Download" to download the game. After that, you can install it by selecting the downloaded file in your file explorer of choice.
 
 <!-- Don't touch this part thank you -->
 {% include bottom_nav.md %}
