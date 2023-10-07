@@ -22,7 +22,7 @@ You can suggest changes via the website and you will be redirected to that page'
 
 Clone the repository and setup a local development environment for Github Pages (See the guide [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)). 
 
-Please note that the page directory is /docs and default baseurl is /osudroid-guide (need to be config to empty string whether by `_config.yml` or command args `--baseurl=""`). After gettingp the page run on your local environment go figure!
+Please note that the page directory is /docs and default baseurl is /osudroid-guide (need to be config to empty string whether by `_config.yml` or command args `--baseurl=""`). After getting the page run on your local environment go figure!
 
 **Notes on dealing with linking image file:**
 - Remote image linking should be avoided, please upload image to `/docs/assets/images` and link it from there using `{{site.baseurl}}/assets/images/<filename>`.
