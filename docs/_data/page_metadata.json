@@ -43,9 +43,9 @@
     },
     {
         "category": "help",
-        "title": "multitouch",
+        "title": "Resolve multitouch issues",
         "path": "/help/multitouch",
-        "description": "Placeholder",
+        "description": "How to resolve multitouch issues in osu!droid",
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "category": "resources",
-        "title": "skin",
+        "title": "osu!droid Skins",
         "path": "/resources/skin",
-        "description": "Placeholder",
+        "description": "Resource for further exploring osu!droid skins/skin making",
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
