@@ -416,14 +416,14 @@ Future changelog is now available in the changelog file in the osu!droid GitHub 
 [^25]: https://web.archive.org/web/20171207004949/https://osu.ppy.sh/forum/t/107611/
 [^26]: https://web.archive.org/web/20171130172325/https://osu.ppy.sh/forum/t/156852
 [^27]: https://cdn.discordapp.com/attachments/325667948905758730/836858128615079936/unknown.png
-[^28]: Ranking — osu!droid (archive.org)
-[^29]: (42) [Osu!droid] HujuniseikouyuuP -Talent Shredder (0108 style).avi - YouTube
-[^30]: [osu!droid] FREEDOM DIVE↓[Another] Played by ls7569 - YouTube
-[^31]: osu!Evolution - Rhythm is just a Tap away! (archive.org)
-[^32]: unknown.png (1809×582) (discordapp.com)
-[^33]: unknown.png (1261×810) (discordapp.net)
-[^34]: osu-droid/changelog.md at 170fb1b64aab09705a09b21b99bb13981124cfbd · osudroid/osu-droid (github.com)
-[^35]: osu-droid/changelog.md at bc728a2575968235402f860d778a16064e325c07 · osudroid/osu-droid (github.com)
+[^28]: https://web.archive.org/web/20120527163239/http://osudroid.com/?page_id=40
+[^29]: https://www.youtube.com/watch?v=civ0nqSdyEg
+[^30]: https://www.youtube.com/watch?v=9yJvMuvRhCo
+[^31]: https://web.archive.org/web/20150813123341/http://ops.dgsrz.com/
+[^32]: https://cdn.discordapp.com/attachments/546135349533868072/837260589059407883/unknown.png
+[^33]: https://media.discordapp.net/attachments/546135349533868072/837260917832941618/unknown.png
+[^34]: https://github.com/osudroid/osu-droid/blob/170fb1b64aab09705a09b21b99bb13981124cfbd/assets/app/changelog.md
+[^35]: https://github.com/osudroid/osu-droid/blob/bc728a2575968235402f860d778a16064e325c07/assets/app/changelog.md
 
 <!-- [] WolpisKater 🇰🇷. xi - FREEDOM DiVE [Arles] 96.05% FC #1 - YouTube
 [] [Osu! Droid] WolpisKater | 97.43%FC // DADADADA (Long Version) [ULTRA BERZERK]_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
