@@ -1,8 +1,8 @@
 {% include other_lang.md %}
 
-#### He perdido mi cuenta/informacion de inicio de sesion! ¿Puedo conseguirlos de vuelta?
+#### He perdido mi cuenta/información de inicio de sesión! ¿Puedo conseguirlos de vuelta?
 
-Si olvidas tu contraseña, puedes ir a http://ops.dgsrz.com/user?action=reset para reiniciar tu contraseña (ops.dgsrz.com es el antiguo dominio del juego, por lo que tal vez tengas que volver a iniciar sesion desde esa pagina)
+Si olvidas tu contraseña, puedes ir a http://ops.dgsrz.com/user?action=reset para reiniciar tu contraseña (ops.dgsrz.com es el antiguo dominio del juego, por lo que tal vez tengas que volver a iniciar sesión  desde esa página)
 
 Para encontrar tu nombre de usuario, si te has olvidado, puedes probar a:
 
