@@ -2,11 +2,13 @@
 
 #### I’ve lost my account/account credentials! Can I retrieve it back?
 
-If you forget your password, you can go to http://ops.dgsrz.com/user?action=reset to reset your password.
+There are a few conditions whereby an account can be retrieved:
+- If you forgot your password, you can go to [this](https://osudroid.moe/user?action=reset) page to reset your password.
+- If you forgot your username:
+  - If you remember your registered email, you can go to [this](https://osudroid.moe/user?action=login) page to login with it. You should then be able to see your username.
+  - If you remember your uid, you can append your uid into the following URL: `https://osudroid.moe/profile.php?uid=` to view your profile. Your username will be visible in the page.
 
-To search for your account name, you have a few options:
-
-You can either request @Admin to retrieve your account if you remember your username and email used to register said account
+If your condition is not specified in the aforementioned conditions, it is not possible to retrieve your osu!droid account.
 
 <!-- Don't touch this part thank you -->
 {% include bottom_nav.md %}
