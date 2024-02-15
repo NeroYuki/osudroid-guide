@@ -5,6 +5,6 @@ description: Where to get osu!droid compatible skin
 
 {% include other_lang.md %}
 
-### Go to https://tsukushi.site/
+### Go to [https://tsukushi.site/](https://tsukushi.site/)
 
 {% include bottom_nav.md %}
