@@ -13,3 +13,5 @@
 </div>
   {% endif %}
 {% endfor %}
+
+{% include add_new_aritcle.md %}
