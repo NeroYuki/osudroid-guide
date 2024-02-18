@@ -17,7 +17,7 @@ description: A Comprehensive Guide on how to customizing your osu!droid interfac
 - **Force show first approach circle:** Does what it said, only in Hidden mod
 - **Hide replay marquee, Hide Gameplay UI:** Does what it said
 - **Beatmap skins:** Beatmap can have specific skin element attached to it, enable this option will load these skin elements if available. Recommend to turn off unless the beatmap insist you to turn on
-- **Combo burst:** Show *anime* if player reach a certain combo coun. Recommend to turn off
+- **Combo burst:** Show *anime* if player reach a certain combo count. Recommend to turn off (TODO: add which element is responsible for the graphic)
 - <TODO: add the rest>
 - **FPS:** Shows FPS, turn on to see how badly the game is chugging ADDITIONALLY also show Average offset of your hit to all notes in the beatmap so far (note that this differ from osu! PC when the ms number is frame time)
 - **Complex Effect:** Recommend off for performance reason
