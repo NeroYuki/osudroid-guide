@@ -1,6 +1,6 @@
 ---
-Title: Customizing how osu!droid look
-Description: A Comprehensive Guide on how to customizing your osu!droid interface
+title: Customizing how osu!droid look
+description: A Comprehensive Guide on how to customizing your osu!droid interface
 ---
 
 {% include other_lang.md %}
