@@ -1,7 +1,7 @@
 [
     {
-        "title": "osu!droid Quickstart Guide\r",
-        "description": "OSU!DROID 100% GETTING STARTED NO DEATH SPEEDRUN\r",
+        "title": "osu!droid Quickstart Guide",
+        "description": "OSU!DROID 100% GETTING STARTED NO DEATH SPEEDRUN",
         "category": "guide",
         "path": "/guide/quickstart",
         "cover": "https://osudroid.moe/assets/img/logo.png"
@@ -35,8 +35,8 @@
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
-        "title": "Developing osu!droid\r",
-        "description": "A guide on how to contribute to development of osu!droid.\r",
+        "title": "Developing osu!droid",
+        "description": "A guide on how to contribute to development of osu!droid.",
         "category": "guide",
         "path": "/guide/developing",
         "cover": "https://osudroid.moe/assets/img/logo.png"
@@ -49,45 +49,52 @@
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
-        "category": "help",
         "title": "Unable to login to osu!droid? Try these",
-        "path": "/help/login_fail",
         "description": "A comprehensive(?) guide on resolving issues when players log into osu!droid Server",
+        "category": "help",
+        "path": "/help/login_fail",
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
-        "title": "osu!droid Old Version\r",
-        "description": "A repository of old versions of osu!droid.\r",
+        "title": "osu!droid Old Version",
+        "description": "A repository of old versions of osu!droid.",
         "category": "resources",
         "path": "/resources/archived_version",
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
+        "title": "osu!droid Skin repository",
+        "description": "Where to get osu!droid compatible skin",
         "category": "resources",
-        "title": "osu!droid Skins",
         "path": "/resources/skin",
-        "description": "Resource for further exploring osu!droid skins/skin making",
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
-        "title": "osu!droid on SD Card\r",
-        "description": "A guide on how to utilize your SD card for osu!droid\r",
+        "title": "osu!droid on SD Card",
+        "description": "A guide on how to utilize your SD card for osu!droid",
         "category": "help",
         "path": "/help/sdcard",
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
-        "title": "Differences between osu! and osu!droid\r",
-        "description": "A (not really) comprehensive list of differences between osu! and osu!droid.\r",
+        "title": "Differences between osu! and osu!droid",
+        "description": "A (not really) comprehensive list of differences between osu! and osu!droid.",
         "category": "resources",
         "path": "/resources/osudiff",
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
-        "title": "osu!droid History\r",
-        "description": "A history of osu!droid.\r",
+        "title": "osu!droid History",
+        "description": "A history of osu!droid.",
         "category": "resources",
         "path": "/resources/history",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "category": "help",
+        "title": "test",
+        "path": "/help/test",
+        "description": "Placeholder",
         "cover": "https://osudroid.moe/assets/img/logo.png"
     }
 ]
