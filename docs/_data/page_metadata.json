@@ -42,10 +42,10 @@
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
-        "category": "help",
         "title": "Resolve multitouch issues",
-        "path": "/help/multitouch",
         "description": "How to resolve multitouch issues in osu!droid",
+        "category": "help",
+        "path": "/help/multitouch",
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
