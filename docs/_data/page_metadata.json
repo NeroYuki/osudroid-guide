@@ -89,12 +89,5 @@
         "category": "resources",
         "path": "/resources/history",
         "cover": "https://osudroid.moe/assets/img/logo.png"
-    },
-    {
-        "category": "help",
-        "title": "test",
-        "path": "/help/test",
-        "description": "Placeholder",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
     }
 ]
