@@ -30,10 +30,13 @@ jobs:
       - name: Run helper script
         run: node helper-script/main.js
 
+      # commit and push changes, if working tree is cleaned, abort and return success
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add docs/_data/page_metadata.json
-          git commit -m "[From Github Action] Update page metadata"
-          git push
+          git diff --quiet && git diff --staged --quiet ||
+          git commit -m "[From Github Action] Update page metadata" && git push"
+
+
