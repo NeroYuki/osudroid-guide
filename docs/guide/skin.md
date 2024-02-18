@@ -28,7 +28,7 @@ Description: A Comprehensive Guide on how to customizing your osu!droid interfac
 - **Cursor size:** It adjust what it said. I recommend a slightly lower value than the default of 100 (I use 70)
 - **Burst Effect:** Does what it said (TODO: add which element is responsible for the burst graphic), recommend off or performance reason and if you are sensitive to fun lights and colors
 - **Particle Effects:** Basically for cursor trail, but not quite to the effect of osu! PC, negligible performance impact so feel free to have it on or off
-- **Dither:** Did nothing
+- **Dither:** Does nothing
     - *Note*: It used to do what it said, at the cost of performance so it has always been recommended to be off. But certain update broke the setting and now it does nothing
 - **UI Triangle Animation:** Does what it said, only in menu so whatever you like really
 - **Combo Color**: Override default combo color
