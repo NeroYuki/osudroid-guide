@@ -64,11 +64,13 @@ Use site like [osuskinner](https://osuskinner.com/) to get started with selectin
 
 (TODO: add table of osu!droid skin element that only work exclusively for osu!droid here)
 
-### 3. How to create new skin (Skin.json)
+### 3. How to create new skin (Skin.json and Skin.ini)
 
 ~~See [skin.json guide here](https://github.com/EdrowsLuo/osudroidstrings/blob/master/wiki/how%20to%20use%20skin.json/en.md)~~ [OUTDATED LOL]
 
 See Skin.json online editor by Rian8337 [here](https://rian8337.github.io/skin-json-editor/) (which include explaination on what each of the parameter in skin.json do)
+
+*Note:* [osu! PC's Skin.ini](https://osu.ppy.sh/wiki/en/Skinning/skin.ini) file can also be used BUT the game will try to convert .ini file to equivalent Skin.json file and then load the Skin.json file (This conversion is done if there is no Skin.json file in the skin folder, if you edit the Skin.ini file, you need to remove the generated Skin.json first for the change to take effect). It is still prefered to edit Skin.json for osu!droid-only setting and ease-of-apply.
 
 {% include bottom_nav.md %}
     
