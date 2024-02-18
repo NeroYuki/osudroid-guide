@@ -21,6 +21,8 @@
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
+        "Title": "Customizing how osu!droid look",
+        "Description": "A Comprehensive Guide on how to customizing your osu!droid interface",
         "category": "guide",
         "title": "Skin Customization",
         "path": "/guide/skin",
