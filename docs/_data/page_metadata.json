@@ -49,6 +49,13 @@
         "cover": "https://osudroid.moe/assets/img/logo.png"
     },
     {
+        "category": "help",
+        "title": "Unable to login to osu!droid? Try these",
+        "path": "/help/login_fail",
+        "description": "A comprehensive(?) guide on resolving issues when players log into osu!droid Server",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
         "title": "osu!droid Old Version\r",
         "description": "A repository of old versions of osu!droid.\r",
         "category": "resources",
