@@ -18,11 +18,10 @@ description: A Comprehensive Guide on how to customizing your osu!droid interfac
 - **Hide replay marquee, Hide Gameplay UI:** Does what it said
 - **Beatmap skins:** Beatmap can have specific skin element attached to it, enable this option will load these skin elements if available. Recommend to turn off unless the beatmap insist you to turn on
 - **Combo burst:** Show *anime* if player reach a certain combo count. Recommend to turn off (TODO: add which element is responsible for the graphic)
-- <TODO: add the rest>
 - **FPS:** Shows FPS, turn on to see how badly the game is chugging ADDITIONALLY also show Average offset of your hit to all notes in the beatmap so far (note that this differ from osu! PC when the ms number is frame time)
 - **Complex Effect:** Recommend off for performance reason
 - **Using snaking in sliders:** Recommend on to aid readability in heavy slider beatmaps
-- **Don't change background background dim level during break:** Does what it said, can turn off if you are sensitive to bright background transition
+- **Don't change background dim level during break:** Does what it said, can turn off if you are sensitive to bright background transition
 - **Cursor:** Show cursor in-game.
     - *Note:* The main problem of showing cursor in-game that cursor has to be drawn on the screen and thus limited by the game framerate AND the device's screen refresh rate. While the game already handle input in a separate input thread which should have significantly better response time. The cursor drawn on screen can appear lagging behind where it should be.
 - **Cursor size:** It adjust what it said. I recommend a slightly lower value than the default of 100 (I use 70)
