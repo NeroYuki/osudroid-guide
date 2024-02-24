@@ -96,5 +96,12 @@
         "path": "/help/test_2",
         "description": "Placeholder",
         "cover": "https://osudroid.moe/assets/img/logo.png"
+    },
+    {
+        "title": "Test",
+        "description": "Placeholder description",
+        "category": "guide",
+        "path": "/guide/test36757",
+        "cover": "https://osudroid.moe/assets/img/logo.png"
     }
 ]
