@@ -13,7 +13,7 @@ From your SD card, please take note of its unique ID (usually something like "xx
 
 .
 
-From the osu!droid app, go to Options -> Library -> Beatmap location and input /storage/<xxxx-xxxx>/Android/media/ru.nsu.ccfit.zuev.osuplus
+From the osu!droid app, go to Options -> Library -> Beatmap location and input /storage/{xxxx-xxxx}/Android/media/ru.nsu.ccfit.zuev.osuplus
 
 *Do not change skin and main directory option in Advanced Options section to SD card, they will not work, only beatmap folder will*
 
