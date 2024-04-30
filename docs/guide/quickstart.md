@@ -20,13 +20,14 @@ description: OSU!DROID 100% GETTING STARTED NO DEATH SPEEDRUN
 ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-181550.png)
     - Optional: Go to Library section in your game options and tick the "Scan download" option
     ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-181658.png)
-6. See the little tab on the right side of the screen? This is the easiest place you can use to download beatmaps (or levels) for the game. Tap it. Scroll down and try to download a beatmap this way. The game will do everything else for you
+6. ~~See the little tab on the right side of the screen? This is the easiest place you can use to download beatmaps (or levels) for the game. Tap it. Scroll down and try to download a beatmap this way. The game will do everything else for you~~
+Since the in-game map downloader is dead (for now), please refer to [This page]({{site.baseurl}}/feature/beatmap) to know how to import beatmaps from external sources
 ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-181918.png)
 **IMPORTANT: Only download beatmaps for the standard mode (Should be indicated by a circle and an outer circle icon)**
-7. Go to Play -> Solo, your beatmap selection will appear with all the map you downloaded. Select one and play it.
+8. Go to Play -> Solo, your beatmap selection will appear with all the map you downloaded. Select one and play it.
 ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-185323_edit.png)
 
-8. If you have played osu! before. You are done, go figure! But if you are completely new. Here is how to play the game:
+9. If you have played osu! before. You are done, go figure! But if you are completely new. Here is how to play the game:
     - See the circle? Tap it when the outer circle shrinks to match the inner one (Feel the rhythm on this. It's a rhythm game after all)
     ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-183218.png)
     - See the slider? Tap the circle at the beginning of it and hold it until the end of the slider (There should be a ball that moves along the slider. Follow it)
