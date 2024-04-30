@@ -1,6 +1,6 @@
 {% include other_lang.md %}
 
-- [Tsukushi's Youtube channel](https://www.youtube.com/c/TsukushiOsu) (osu!droid Replay Upload)
+- [Tsukushi's Youtube channel](https://www.youtube.com/@TsukishiDroid) (osu!droid Replay Upload)
 - [osu!droid subreddit](https://www.reddit.com/r/osudroid) (yes this exists)  
 - [osu!droid (International) Discord server](https://discord.gg/nyD92cE) - Basically the hub of osu!droid community
 <a href="https://discord.gg/nyD92cE" target="_blank" rel="noreferrer">
