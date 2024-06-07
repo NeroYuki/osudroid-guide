@@ -20,8 +20,7 @@ description: OSU!DROID 100% GETTING STARTED NO DEATH SPEEDRUN
 ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-181550.png)
     - Optional: Go to Library section in your game options and tick the "Scan download" option
     ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-181658.png)
-6. ~~See the little tab on the right side of the screen? This is the easiest place you can use to download beatmaps (or levels) for the game. Tap it. Scroll down and try to download a beatmap this way. The game will do everything else for you~~
-Since the in-game map downloader is dead (for now), please refer to [This page]({{site.baseurl}}/feature/beatmap) to know how to import beatmaps from external sources
+6. See the little tab on the right side of the screen? This is the easiest place you can use to download beatmaps (or levels) for the game. Tap it. Scroll down and try to download a beatmap this way. The game will do everything else for you. *The UI for the downloader has been changed, but the instructions here should still applied*
 ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-181918.png)
 **IMPORTANT: Only download beatmaps for the standard mode (Should be indicated by a circle and an outer circle icon)**
 8. Go to Play -> Solo, your beatmap selection will appear with all the map you downloaded. Select one and play it.
