@@ -9,7 +9,9 @@
 5. Save your image by clicking on the blue checkmark button on the bottom-right side of your screen. You won't see any feedback upon clicking it, don't worry about it.
 6. Press “Upload” to upload your avatar.
 
-*NOTE: If you don't see your avatar change on the website. Don't panic, it just mean that the browser (and the game) saved your old avatar to the cache. You can refer to [here](https://www.xda-developers.com/how-clear-app-cache-android/#:~:text=Within%20the%20app%20settings%2C%20look,Delete%20app%20data%20options%20here.) to know how to do so on Android*
+NOTE:
+- If you don't see your avatar change on the website, don't panic, it just means that the browser cached your old avatar. Please check in-game to verify whether your avatar has updated.
+- Your avatar will take several minutes to update. Please be patient!
 
 <!-- Don't touch this part thank you -->
 {% include bottom_nav.md %}
