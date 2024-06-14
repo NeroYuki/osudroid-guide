@@ -10,8 +10,8 @@
 6. Press “Upload” to upload your avatar.
 
 NOTE:
-- If you don't see your avatar change on the website, don't panic, it just means that the browser cached your old avatar. Please check in-game to verify whether your avatar has updated.
 - Your avatar will take several minutes to update. Please be patient!
+- If you don't see your avatar change on the website, don't panic, it just means that the browser cached your old avatar. Please check in-game to verify whether your avatar has updated.
 
 <!-- Don't touch this part thank you -->
 {% include bottom_nav.md %}
