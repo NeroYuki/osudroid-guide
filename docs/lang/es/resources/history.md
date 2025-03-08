@@ -1,228 +1,227 @@
 ---
-title: osu!droid History
-description: A history of osu!droid.
+title: Historia de osu!droid
+description: La historia de osu!droid.
 ---
 
 {% include other_lang.md %}
 
-## Development History
+## Historia del desarrollo de osu!droid
 
-### osu!droid under Pesets development 
+### osu!droid en desarrollo por Pesets 
 
-Note: Info is mostly taken from video as well as archived forum post on Wayback Machine
+Nota: Esta info esta sacada por la mayor parte de videos asi como tambien lo esta de info archivada en Wayback Machine 
 
-30 Mar 2010: A thread on osu! forum discuss the possibility of an osu! port on Android[^1] but seem to went nowhere
+30 Mar 2010: Un hilo en el foro de osu! para discutir la posibilidad de un port para Android[^1], pero parece que termino en nada
 
-05 Feb 2011: An early rhythm game, Beats, had a working prototype on an osu! Mod[^2][^3] which and later release under update 1.5b on 14 Feb 2011[4]
+05 Feb 2011: Uno de los primeros juegos de ritmo llamado Beats,tenia un prototipo de un mod de osu![^2][^3] funcional, el cual salio en la actualizacion 1.5b el 14 de febrero de 2011[^4]
 
-23 May 2011: Beats 1.6b released. Introduced support for .osu file format[^5] (up to v5 [citation needed]). Mark the first time osu map can be played on Android devices
+23 May 2011: Beats se actualiza a la version 1.6b. Introduciendo el soporte del formato .osu[^5] (hasta la version v5 [citation needed]). El cual marca el momento en el que mapas de osu! se empezaron a poder jugar en Android.
 
-14 July 2011: an osu! player under username Pesets begin working on a prototype of osu! on his Android tablet. After 5 days of work, on 19 July 2011, he posted his first technical demo of a dedicated osu! client on Android[^6][^7]
+14 Jul 2011: Un jugador de osu! con el username de Pesets empezo a trabajar en un protoripo de osu! en su tablet con Android. Despues de 5 dias, en el 19 Julio de 2011, hizo un post con la primera demo tecnica del cliente de osu! para Android[^6][^7]
 
-23 July 2011: The project reached a state where it can be opened for public testing. Pesets made a separated thread and release the 0.3a version of the game[^8]. General reaction being that the game can run well even on modest Android devices but still had a lot of bugs
+23 Jul 2011: El proyecto llego a un estado en el que podia ser testeado por todo el mundo. Pesets hizo un hilo separado y publico la version 0.3a del juego[^8]. La reaccion del publico fue buena ya que podia correr incluso en los dispositivos Android mas modestos, pero seguia teniendo demasiados bugs.  
 
-Note: all changelog is taken from the changelog thread on osu! Forum[^9] unless stated otherwise
+Nota: Todo el changelog a continuacion, se ha tomado del hilo de changelogs en el foro de osu![^9] a menos que se anote lo contrario
 
-07 Aug 2011: v0.4b released with following changelog:
+07 Ago 2011: v0.4b se publico con el siguiente changelog:
 
-- Common
-    - Skin support (incomplete)
-    - Health calculation
-    - Proper slider animation
+- General
+    - Soporte para skins (incompleto)
+    - Calculo de vida del jugador
+    - Animaciones de sliders adecuadas
     - Follow points
-    - Re-calculating of some formulas
+    - Re-calculaciones de algunas formulas
 - Menus
-    - Main menu
-    - Options menu
-    - Background preview of selected song
-    - Other small features`
+    - Menu principal
+    - Menu de opciones
+    - Preview del background del mapa seleccionado
+    - Otras caracteristicas mas pequeñas
 
-Demo video of skin support can be seen here[^10]
+Video de la demo del soporte de skins se puede ver aqui[^10]
 
-19 Aug 2011: v0.4.2b released with following changelog (combination of v0.4.1b and v0.4.2b):
+19 Ago 2011: v0.4.2b se publica con el siguiente changelog (combinacion de v0.4.1b y v0.4.2b):
 
-- Common
-    - "Reduce texture quality" option (may be unstable)
-    - Skip offset can be auto-calculated (unstable)
-    - Scanning .osz files in Osu directory
-    - Star difficulty calculation (incomplete)
-    - Experimental change in slider processing algorithm
+- General
+    - Opcion para reducir la calidad de las texturas (Puede ser inestable)
+    - Skip offset se puede calcular automaticamente (inestable)
+    - Escaneo de archivos .osz en el directorio de osu!
+    - Calculo de dificultad de estrellas (incompleto)
+    - Cambio experimental en el algoritmo de procesado de sliders
 
-Another demo video of this version can be seen here[^11][^12] - not sure why it said v0.43b, maybe a mistake, maybe there was a later version of the 0.4.xb
+Otro video demostracion de esta version se puede encontrar aqui[^11][^12] - no se sabe del todo porque pone v0.43b, tal vez fue un error, o tal vez habia otras versiones v0.4Xb
 
-30 Aug 2011: v0.5b released with following changelog:
+30 Ago 2011: v0.5b se publica con el siguiente changelog:
 
-- Common
-    - Hand-made mp3 player (unstable)
-    - Filter in song menu
-    - Scroll bar in song menu
-    - Rearranged structure of song library
-    - App2SD support
+- General
+    - Reproductor mp3 para manos libres (inestable)
+    - Filtros para el menu de seleccion de mapas
+    - Barra de scroll en el menu de seleccion de mapas
+    - Estructura reorganizada de la biblioteca de canciones
+    - Soporte para App2SD
 
-09 Sep 2011, 0.5.1b release with following changelog:
+09 Sep 2011: v0.5.1b se publica con el siguiente changelog:
 
-- Common
-    - Skin support
-    - Improved song menu mechanics
-    - Mod selection button 
-    - Selection options button
-- Technical
-    - Changed the score board file format
-    - The "Background brightness" option
-    - The "VBR offset" option for the custom player
+- General
+    - Soporte para skins
+    - Mecanicas en el menu de seleccion de mapas mejoradas
+    - Boton de seleccion de mods
+    - Boton de opciones de seleccion
+- Tecnico
+    - Formato de archivo para el scoreboard cambiado
+    - Añadida la opcion para cambiar el brillo del background
+    - Añadida la opcion "VBR offset" para el reproductor custom
 
-13 Sep 2011, 0.6b release as its the last beta version of the game with following changelog:
+13 sep 2011: v0.6b se publica, siendo la ultima version beta el juego con el siguiente changelog:
 
-- Common
-    - "Easy", "Hard rock" and "Hidden" modes
-    - Improved song search
-    - "Sort by" feature
-    - Slider borders
-- Technical
-    - Changed song library format
+- General
+    - Se añaden los mods "Easy", "Hard rock" y "Hidden"
+    - Busqueda de canciones mejorada
+    - Añadida la opcion de "Ordenar por"
+    - Bordes de sliders
+- Tecnico
+    - Formato de la libreria de canciones cambiado
     - Auto caching
-    - Bug fixes
-    - Some minor bug fixes
+    - Bugfixes
+    - Algunos bugfixes menores
 
-Demo video of this version with modded gameplay can be seen here[^13]
+Un video demostracion de esta version con gameplay usando mods se puede ver aqui[^13]
 
-16 Sep 2011, 1.0 release, the game is on Play Store and all game-related discussion is redirected to the now-defunct osu!droid forum topic, the game is aptly named osu!droid (which mean even more wayback machine bruh)
-(also seem like the game come with 2 variants, a lite variant with no map pre-installed and a full variant with 4 maps pre-installed[^14])
+16 Sep 2011: v1.0 se publica, el juego esta en la PlayStore y toda la discusion relacionada se redirecciona al ahora difunto tema del foro de osu!droid. El juego se renombra a osu!droid (aka mas wayback machine bruh)
 
-23 Sep 2011, 1.1 release with the following changelog
+(Tambien parece que el juego venia con 2 variantes, una version 'lite' sin mapas preinstalados y una version 'full' con 4 mapas preinstalados[^14])
 
-- Common
-    - New logo (thanks to doomed151)
-    - Multitouch support
-    - Kiai mode
-    - "Random map" button
-    - Song progress bar
-- Technical
-    - Offsets submenu in options
-    - More accurate star difficulty calculation
-    - Increased overall scale of game elements
-    - Calculating average hit offset (shows along with FPS)
+23 Sep 2011, v1.1 se pubica con el siguiente changelog
 
-4 Oct 2011, 1.2 release with following changelog
+- General
+    - Nuevo logo (cortesia de doomed151)
+    - Soporte para multiples toques a la vez (Multitouch)
+    - Kiai
+    - Boton de seleccion de mapas al azar
+    - Barra de progreso de cancion
+- Tecnico
+    - Submenu de offsets en las opciones del juego
+    - Calculo de dificultad de estrellas mas preciso
+    - Incrementada la escala general de elementos del juego
+    - Calculo general del hit offset (Se muestra junto al contador de FPS)
 
-- Common
-    - DDL (Direct song download) system (basically osu!Direct)
-    - Player name
-    - Song properties menu
-    - Music preview
-    - Show mod icons during gameplay
-- Technical
-    - Sorting method in song menu is stored
-    - Time progress bar (in game) is slightly changed
-    - Supporting .zip files along with .osz
-    - Bugfixes and small improvements
+4 Oct 2011: v1.2 se publica con el siguiente changelog: 
 
-This update was immediately followed by 1.2.1 update on 8 Oct 2011 to fix a critical bug regarding DDL (also at the time the DDL system relied on YaS-online mirror). A video of it in action can be seen here[15] also interesting demo with touch pen here[^16]
+- General
+    - Sistema DDL (Descarga directa de canciones, basicamente osu!Direct)
+    - Nombre de jugador
+    - Menu de propiedades de las canciones
+    - Preview de la musica
+    - Mostrar iconos de los mods durante el gameplay
+- Tecnico
+    - El metodo de orden en el menu de seleccion de canciones se guarda
+    - Barra de progreso es ligeramente cambiada
+    - Soporte para archivos .zip añadido
+    - Bugfixes y pequeñas mejoras
 
-Around start of Nov 2011, 1.3 was released with following changelog (this is taken from the russian forum[^17], the changelog not presented in the changelog thread for whatever reason)
+Esta actualizacion fue seguida inmediatamente por la version v1.2.1 el 8 Oct 2011, para arreglar un bug critico del sistema DDL (Que por cierto, este sistema dependia en el mirror de YaS-online). Un video de este sistema funcionando se puede encontrar aqui[^15]. Tambien, una interesante demo con un touch pen puede verse aqui[^16]
 
-- Common
-    - Scaling of game elements depending of screen size
-    - Slider rendering optimization
-    - Lots of bugfixe
-- Community-made translations:
-    - Chinese by Colin Hou
-    - Dutch by thedicemaster
-    - French by Shywim
-    - German by sovereignDE
-    - Indonesian by audiserverhaseo
-    - Italian by Card N'FoRcE
-    - Korean by Maksimin
-    - Thai by Kharl
+Alrededor del comienzo de Noviembre 2011, v1.3 se publico con el siguiente changelog (esto se saco del foro ruso[^17], ya que el changelog de esta version no esta en el hilo por alguna razon)
 
-3 Dec 2011, 1.3.2 release, this change the address for the DDL service 
+- General
+    - Auto-escalado de los elementos del juego dependiendo en el tamaño de la pantalla
+    - Optimizacion en el renderizado de sliders
+    - Muchos bugfixes
+- Traducciones hechas por la comunidad:
+    - Traduccion en Chino (Colin Hou)
+    - Traduccion en Holandes (thedicemaster)
+    - Traduccion en Frances (Shywim)
+    - Traduccion en Aleman (sovereignDE)
+    - Traduccion en Indones (audiserverhaseo)
+    - Traduccion en Italiano (Card N'FoRcE)
+    - Traduccion en Coreano (Maksimin)
+    - Traduccion en Tailandes (Kharl)
+
+3 Dic 2011: v1.3.2 se publica, este simplemente cambia la direccion para el servicio DDL
 
 -----------
 
-The debug / Testing build section (Currently heavily relied on this thread[^18])
+Seccion de la build debug / test (Actualmente depende mucho en este hilo [^18])])
 
-19 Sep 2011, 1.0.1d release 21 Sep 2011, 1.0.2d release, 22 Sep 2011, 1.0.3d release, most likely testing for 1.1 update
+19 Sep 2011, v1.0.1d se publica
+21 Sep 2011, v1.0.2d se publica
+22 Sep 2011, 1.0.3d se publica, probablemente es un test para la v1.1
 
-28 Sep 2011, 1.1.1d release, 30 Sep 2011, 1.1.2d release, 3 Oct 2011, 1.1.3d released, testing DDL (for 1.2 update)
+28 Sep 2011, v1.1.1d se publica
+30 Sep 2011, v1.1.2d se publica 
+3 Oct 2011, v1.1.3d se publica, test para DDL (para la v1.2)
 
-15 Oct 2011, 1.2.3d release, most likely testing for 1.3 update
+15 Oct 2011, v1.2.3d se publica, probablemente es un test para la v1.3
 
-05 Feb 2012, 1.4 release, score format change
+05 Feb 2012, v1.4 se publica, haziendo cambios en el formato de score
+13 Mar 2012, v1.4.2a se publca, testeando las estadisticas online (para la v1.5)
 
-13 Mar 2012, 1.4.2a version, testing online statistic (For 1.5 update)
+18 Feb 2012, v1.4.3d se publica (siendo la unica con un changelog en condiciones)
 
-18 Feb 2012, 1.4.3d release the only debug version with a proper changelog
-
-- Online scoring system
-- Relax and autopilot mods
-- Added "advanced options":
-- You can change main and skin directory manually
-- Hit bursts (can be enabled in advanced options)
-- Particle effects (for now it's just cursor trail)
+- Sistema de scores online
+- Mods "Relax" y "Autopilot" añadidos
+- Opciones avanzadas añadidas
+- Ahora se pueden cambiar tanto el directorio principal del juego como el directorio de las skins
+- Hit bursts (se puede activar en las opciones avanzadas)
+- Efectos de particulas (por el momento es solo para el trail del cursor)
 - Dither
-- Disabling low-latency sync. (for devices without low-latency audio eg. Kindle Fire)
-- Auto fade background during play ("Background brightness" option was removed)
-- Pack of bugfixes
+- Desactivar sincronizacion de baja latencia (para dispositivos sin soporte de baja latencia para audio, como los Kindle Fire)
+- Automaticamente esconder el background mientras juegas (la opcion de "Background brightness" se elimino)
+- Pack de bugfixes
 
 -----------
 
+06 Mar 2012: Empieza el beta testing de las scores online[^19] (Esta parte del desarollo esta entrelazada con las scores online de T-aiko (por Guy-kun), de hecho, los usuarios pueden usar sus cuentas en ambos juegos[^18][^20])
 
-06 Mar 2012, Beta test of the online score submission start[^19] (This part of the development is intertwined with T-aiko (by Guy-kun) online score submission, in fact, users can use their account across both of these games[^18][^20])
+17 Mar 2012: El servicio online de osu!droid fue publicado[^21] junto a la v1.5, toda la actividad del juego se migro la ahora difunta pagina http://osudroid.com[^22]:
 
-17 Mar 2012, Online service of osu!droid publicly went live[^21] along with the release of version 1.5, all game activity is migrated to now-defunct http://osudroid.com[^22]
-
-- Common
-    - Online scoring system
+- General
+    - Sistema de scores online
     - Replays
-    - "Relax" and "Autopilot" mods
-    - New graphical effects
-- Technical
-    - "Multitouch streaming" 
-    - "Advanced options" section
-    - Some bugfixes
+    - Mods "Relax" y "Autopilot" añadidos
+    - Nuevos efectos graficos
+- Tecnico
+    - "Multitouch streaming"
+    - Seccion de Opciones avanzadas
+    - Algunos bugfixes
 
-Some of the release date is deducted from people posting their setup in this thread[^23] and the russian osu!droid thread on 4PDA[^14], pinned point date is from this thread across different snapshot in wayback machine[^24]
+Algunas fechas de las publicaciones son deducidas por gente posteando sus setups en este hilo [^23] y el hilo ruso de osu!droid en 4PDA[^14], la fecha fijada es de este hilo a traves de diferentes capturas en Wayback Machine[^24]
 
-5 May 2012, 1.5.2 release
+5 May 2012: v1.5.2 se publica
+5 May 2012, v1.5.2 se publica
+Por Jul 2012, 1.5.3 se publica
+Por Aug 2012, 1.5.4 se publica, otro arreglo para DDL
 
-around Jul 2012, 1.5.3 release
+5 Aug 2012, 1.5.5 se publica con el siguiente changelog:
 
-around Aug 2012, 1.5.4 release, another fix for DDL
+- Sistema DDL re-hecho
+- Soporte parcial para el formato .osu v10
+- Desactivado el guardado de replays
 
-5 Aug 2012, 1.5.5 release with the following changelog
+Por el final de Oct 2012, v1.5.6 se publica con el siguiente changelog:log
 
-- Remaked DDL system
-- Support for ".osu v10" format (partial)
-- Disabled replay saving
+- DDL arreglado (una vez mas)
+- Arreglados crasheos en algunos mapas con el formato .osu v10
 
-around end of Oct 2012, 1.5.6 release release with the following changelog
+Por Ene 2013, v1.5.7 se publica
+1 Dec 2013, 1.5.8 se publica
+2 Feb 2013, 1.5.9 se publica
+14 Jan 2014, 1.5.10 se publica, el cual marca la ultima version publica de osu!droid (hasta el momento)
 
-- Fixed DDL (yet again)
-- Fixed crashing on some v10 maps
+La mayor parte de las v1.5.x fueron para arreglar DDL y para añadir soporte a nuevos formatos de .osu, el cual hace a v1.5 la ultima mayor actualizacion del juego
 
-around Jan 2013, 1.5.7 release
+En algun momento antes de Nov 2016, el juego fue eliminado de la PlayStore (lo mas probable es que fuera por el bajo rating y por no estar recibiendo actualizaciones)
 
-1 Dec 2012, 1.5.8 release
+28 Ago 2017, peppy oficialmente anuncia que el proyecto ya no se mantendra ni se soportara. Por lo que se cerro el subforo de osu!droid
 
-2 Feb 2013, 1.5.9 release
+### Epoca de desarollo por Neico 
 
-14 Jan 2014, 1.5.10 release, mark the last public release of osu!droid
+29 Nov 2012, Neico hizo un hilo sobre portear osu!droid al backend OpenGL ES2.0 en vez del que hasta el momento era OpenGL ES1 (La version de Pesets), que hizo una pre-alfa que no podia reproducir ningun mapa (y que por alguna razon esta disponible para descargar)[^25]
 
-Most of the 1.5.x release is only for fixing DDL and catch up with newer osu file format, which make 1.5 the last major update of the game
+26 Sep 2013, Neico hizo otro hilo mostrando intencion de permitir algunos usuarios tener acceso al codigo del juego con el backend de OpenGLES1[^26], no se sabe del todo cual es el resultado de esto
 
-Somewhere before Nov 2016, the game was delisted from Play Store (most likely due to poor rating and no longer being maintained)
+Nota: Tambien se sabe que osu!plus EX se publico despues de este post (tal como se menciona en el mismo)
 
-28 Aug 2017, peppy officially announced the project is no longer maintained and supported. Subsequently closed down the osu!droid sub-forum
-
-### osu!droid under Neico development 
-
-29 Nov 2012, Neico made a thread about moving osu!droid to the OpenGL ES 2.0 backend instead of current OpenGL ES 1 (Pesets’ version), made a pre-alpha build that can’t play any map yet (but for some reason is available for downloading)[^25]
-
-26 Sep 2013, Neico made another thread showing intention of allowing certain user to have access to the OpenGL ES 1 backend code of osu!droid[^26], not sure what is the result of this 
-
-Note: It’s also known that osu!plus EX has been released before this post (as it was mentioned in the post)
-
-It’s also unsure if Neico made contribution to any version of osu!droid under Pesets (especially 1.5.10)
+Tampoco se sabe del todo si Neico contribuyo en alguna version de osu!droid desarrollada por Pesets (especialmente v1.5.10)
 
 ### osu!droid under dgsrz development (osu!plus Project) 
 
