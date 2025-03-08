@@ -234,90 +234,90 @@ Nota: Tambien se sabe que osu!plus EX se publico despues de este post (tal como 
 
 Tampoco se sabe del todo si Neico contribuyo en alguna version de osu!droid desarrollada por Pesets (especialmente v1.5.10)
 
-### osu!droid under dgsrz development (osu!plus Project) 
+### Epoca de desarrollo bajo dgsrz (Proyecto osu!plus) 
 
-29 Jan 2015, Neico (supposedly) leaked the osu!droid source code to the public and announce to stop working on osu!droid
+29 Ene 2015, Neico (supuestamente) filtró el codigo fuente y anunció que iba a dejar de trabajar en osu!droid
 
-1.6 released for osu!droid, now under a new project name (osu!plus) and new lead developer (dgsrz) in unknown date, with following changelog[^27]
+Salió la 1.6 , bajo un nuevo nombre (osu!plus) y un nuevo desarrollador (dgsrz) en una fecha que a dia de hoy no se sabe, con el siguiente registro de cambios:[^27]
 
-- Changes
-    - Change the option style to 4.x (Android ICS design language).
-    - Change the player to new Bass Player. It is forced.
-    - Change the hitsound playing approach. It is more Like PC version. (still need improvement)
-    - Speed up while loading
-    - Change the HR and EZ calculating. HR od, ar x1.4
-- Additions
-    - Support invisible visual buttons.
-    - Support DT NC HT mod.
-    - Support background dim.
-    - Support displaying HP CS AR OD
-    - Support osu welcome.
+- Cambios
+    - Se cambió el estilo de opcion a 4.x (diseño de lenguaje Android ICS).
+    - Se cambió a un nuevo Reproductor Bass. Es forzado.
+    - Se cambió como se reproducen los hitsounds. Ahora es mas parecido a la versión de PC. (Necesita mejoras)
+    - Se agilizó el proceso de carga
+    - Se cambió el calculo de HR y EZ. HR OD, AR x1.4
+- Adiciones
+    - Soporte para botones visuales invisibles.
+    - Soporte para los mods DT NC HT.
+    - Soporte para cambiar el brillo del fondo.
+    - Soporte para mostrar HP CS AR OD
+    - SOporte para el sonido de bienvenida de osu!.
 
-21 Feb 2015, 1.6.1 version release with following changelog
+21 Feb 2015, salió la 1.6.1 con el siguiente registro de cambios:
 
-- Additions
-    - Support replays
+- Adiciones
+    - Soporte para replays
 
-7 Mar 2015, 1.6.2 version release with following changelog
+7 Mar 2015, salió la 1.6.2 con el siguiente registro de cambios:
 
-- [dgsrz] support Android 5.0
-- [dgsrz] auto update
-- [dgsrz] allow give opinion in app（open in settings page）
-- [dgsrz] rewrite IO，increase map loading speed
-- [AsakuraFuko] result database move to external，support auto merge after re-integration
-- [dgsrz] stabilize client end
-- [dgsrz] change network linking，disable old version
-- [dgsrz] change HR score bonus，for fairness all current HR scores times 0.92
-- [eprendre] improve settings menu effect in 高版本系统
-- [eprendre] does not show option to hide nav bar in below android 4.4
-- [AsakuraFuko] result screen UI details fix
-- [AsakuraFuko] HD effect shown fix
-- [AsakuraFuko] make new option of allow map sounds
-- [AsakuraFuko] set own bg in home page
-- [dgsrz] increase tuning of music and sound effects
-- [dgsrz] lower audio delay
-- [dgsrz] adjust treat whole play's sound delay as 0
-- [AsakuraFuko] fix missing text in mod menu 
-- [AsakuraFuko] fix when Replay loading fails Mod does not recover issue
-- [AsakuraFuko] include showing BPM in mod menu
-- [AsakuraFuko] change Mod menu UI
-- [AsakuraFuko] disable低材质choice
+- [dgsrz] Soporte para Android 5.0
+- [dgsrz] Actualizaciones automaticas
+- [dgsrz] Permitir dar tu opinion en el juego（En configuraciones）
+- [dgsrz] Reescribir IO，se agilizó el proceso de cargar mapas
+- [AsakuraFuko] Se cambió de lugar la base de datos，soporte para auto fusionarse despues de la reintegracion
+- [dgsrz] Estabilizando el cliente
+- [dgsrz] Se cambió el linkeo de red，deshabilitando la antigua version
+- [dgsrz] Se cambió el bonus de puntuacion para HR，puntuaciones actuales con HR x 0.92
+- [eprendre] Mejorando el efecto del menú de configuración en versiones avanzadas de Android.
+- [eprendre] No se muestra la opcion de esconder la barra de navegacion en versiones menores a Android 4.4
+- [AsakuraFuko] Arreglando detalles en la UI de la pantalla de resultados
+- [AsakuraFuko] Arrelgando el efecto de HD
+- [AsakuraFuko] Nueva opcion para permitir los sonidos de los mapas
+- [AsakuraFuko] Permitir que puedas usar cualquier fondo en el menú
+- [dgsrz] Se mejoró el ajuste para la musica y los efectos de sonido
+- [dgsrz] Se redució el retraso con el audio
+- [dgsrz] Se ajustó el delay de la cancion en una play a 0
+- [AsakuraFuko] Se arregló un texto faltante en el menu de mods
+- [AsakuraFuko] Se arregló el error que cuando la Replay falla al cargar los Mods no vuelven a su antiguo estado
+- [AsakuraFuko] Se muestra el BPM en el menu de mods
+- [AsakuraFuko] Se cambió el UI en el menu de mods
+- [AsakuraFuko] Desactivar la opción de baja calidad
 
-(credit for Santhonius#7794 translating the changelog)
+(credito a Santhonius#7794 por traducir el registro de cambios a ingles)
 
-26 Apr 2015, 1.6.3 release[^31]
+26 Abr 2015, salió la 1.6.3[^31]
 
-4 Sep 2015, 1.6.4 release[^31]
+4 Sep 2015, salió la 1.6.4[^31]
 
-Around Jul 2017, 1.6.5 release[citation needed]
+Cerca de Jul 2017, salió la 1.6.5
 
-15 Jul 2018, 1.6.6 release[^31]
+15 Jul 2018, salió la 1.6.6[^31]
 
-17 Jul 2019, 1.6.7 release[^31][^32][^33]
+17 Jul 2019, salió la 1.6.7[^31][^32][^33]
 
-- Additions
-    - Storyboard support
-    - Import and export replay
-    - New mod: Precise (PR)
-    - Custom collections
-    - Improve Chinese translation
-    - Automatic beatmap scan on download directory
-    - Option to show approach circle on first note in Hidden mod
-    - In-game beatmap ranking status
-    - Animated “back”, “skip”, and “scorebar”
-    - In-game menu for skin selection
-    - “skin.json” for advanced skin manipulation
-    - In-game global score leaderboard
-    - Slider hint for relatively long sliders to aid reading
-    - New UI style
-    - Quick settings in mod menu to adjust background dim and toggle storyboard
-- Changes
-    - Show map ID instead of objects/minute
-    - Gameplay will pause when notification bar is dragged down
-    - “Demo Spline” is turned on by default
-    - Sliders are semi-transparent
-    - Circle size is consistent across different aspect ratios
-- Fixes
+- Adiciones
+    - Soporte para Storyboard
+    - Se puede importar y exportar replays
+    - Nuevo mod: Precise (PR)
+    - Colecciones custom
+    - Se mejoró la traduccion a Chino
+    - Escaneo automatico de mapas en Descargas
+    - Opcion para mostrar el approach circle en el primer circulo con HD
+    - Estado de clasificacion del mapa dentro del juego 
+    - “back”, “skip” y “scorebar” animados
+    - Menu dentro del juego para seleccionar skins
+    - “skin.json” para modificar skins avanzadamente (como el skin.ini en pc)
+    - Tabla de clasificacion global de puntuacion dentro del juego
+    - Se muestra ayuda para sliders largos
+    - Nuevo estilo de UI
+    - Configuraciones rapidas en el menu de mods para ajustar el brillo del fondo y activar/desactivar storyboard
+- Cambios
+    - Se muestra el ID del mapa en vez de objectos/minuto
+    - El juego se pausara cuando la barra de notificaciones baje
+    - “Demo Spline” esta activado por defecto
+    - Los sliders son semi-transparentes
+    - El tamaño de los circulos es consistente en diferentes ratios de aspecto
+- Arreglos
     - Fixed audio offset caused by skip button
     - Fixed an issue with infinite BPM beatmaps
     - Fixed time calculation error for sliders
