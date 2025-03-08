@@ -71,7 +71,7 @@ Otro video demostracion de esta version se puede encontrar aqui[^11][^12] - no s
     - Añadida la opcion para cambiar el brillo del background
     - Añadida la opcion "VBR offset" para el reproductor custom
 
-13 sep 2011: v0.6b se publica, siendo la ultima version beta el juego con el siguiente changelog:
+13 Sep 2011: v0.6b se publica, siendo la ultima version beta el juego con el siguiente changelog:
 
 - General
     - Se añaden los mods "Easy", "Hard rock" y "Hidden"
@@ -197,9 +197,9 @@ Algunas fechas de las publicaciones son deducidas por gente posteando sus setups
 
 Por Jul 2012, 1.5.3 se publica
 
-Por Aug 2012, 1.5.4 se publica, otro arreglo para DDL
+Por Ago 2012, 1.5.4 se publica, otro arreglo para DDL
 
-5 Aug 2012, 1.5.5 se publica con el siguiente changelog:
+5 Ago 2012, 1.5.5 se publica con el siguiente changelog:
 
 - Sistema DDL re-hecho
 - Soporte parcial para el formato .osu v10
@@ -212,7 +212,7 @@ Por el final de Oct 2012, v1.5.6 se publica con el siguiente changelog:log
 
 Por Nov 2012, v1.5.7 se publica [no se sabe del todo, citation needed]  
 
-1 Dec 2012, 1.5.8 se publica
+1 Dic 2012, 1.5.8 se publica
 
 2 Feb 2013, 1.5.9 se publica
  
@@ -318,86 +318,86 @@ Cerca de Jul 2017, salió la 1.6.5
     - Los sliders son semi-transparentes
     - El tamaño de los circulos es consistente en diferentes ratios de aspecto
 - Arreglos
-    - Fixed audio offset caused by skip button
-    - Fixed an issue with infinite BPM beatmaps
-    - Fixed time calculation error for sliders
+    - Se arregló el offset con el audio cuando se presiona el boton de skip
+    - Se arregló un problema con mapas de infinitos BPM
+    - Se arregló un error con el calculo del tiempo para los sliders
 
-25 Dec 2020, 1.6.8-pr1 release[^34]
+25 Dic 2020, salió la 1.6.8-pr1[^34]
 
-- Additions
-    - Delete local replay
-    - Playfield scale
-    - New mods (all unranked)
-    - Sudden Death (SD): triggers fail after 1 miss, sliderbreaks do not trigger fail
-    - Small Circle (SC): adds 4 to a beatmap’s circle size
-    - Perfect (PF): SS or fail
-    - Flashlight (FL): lightened area might be different from PC version, no dim on slider click
-    - Really easy (RE): easier EZ, only decreases AR slightly instead of cutting in half
-    - ScoreV2: no change to slider judgement, uses score calculation similar to osu!lazer
-    - Speed modifier (adjusts a beatmap’s speed between 0.5x and 2x, stackable on top of DT/NC/HT) (unranked)
-    - Force AR (adjusts a beatmap’s AR anywhere from 0 to 12.5, ignores all effect from mods (unranked)
-    - User panel (tap profile on main menu to go directly to profile page)
-    - Internal audio recording (Android 10+)
-    - Option to remove slider lock and spinner lock (unranked)
-    - Exit dialog prompt when attempting to exit the game via main menu
-    - New sorting option: star rating and BPM
-    - Account beatmap difficulty name in beatmap search
-    - Multiple input support in one frame; enables double-tap
-    - Animated hit explosions
-    - Warning message for low storage
-    - Option to precalculate slider path (improves performance during gameplay, but increases loading time)
-    - Option to calculate performance points when opening a score
-- Changes
-    - Precise (PR) mod is ranked
-    - Easy (EZ) mod has 3 lives
-    - Relax (RX) mod and AutoPilot (AP) mod replays will be saved with 0.001x score multiplier
-    - Updated star rating system to be on par with PC version
-    - 10 simultaneous cursor input support
-    - Improved frame rate for storyboard
-- Fixes
-    - Fixed a bug where follow points that are too small will make the game lag
-    - Fixed a bug where multiple overlapping notes can be hit by only tapping once
-    - Fixed a bug where NC mod speed multiplier is not the same as DT mod in some beatmaps
-    - Fixed a bug where sliders with negative length or infinite BPM makes a beatmap unplayable
-    - Fixed a bug where some beatmaps can crash the game when tapping a note due to out of bound hitsounds
-    - Fixed a bug for spinners (spinners with negative length or less than 50ms will spin automatically)
-    - Fixed a bug where some slider ticks fail to display correctly
-    - Fixed a bug where very high velocity reverse sliders (buzz sliders) have incorrect length
-    - Fixed a bug where certain skin sound elements will crash the game (audio files smaller than 1 KB will be ignored)
-    - Fixed SD card bug by moving library cache file to the game's private directory
-    - Fixed a bug in navigation bar (should disable properly)
-    - Fixed a bug where score would show incorrectly above 100 million during gameplay
-    - Fixed a bug where beatmap length greater than 1 hour is displayed incorrectly
-    - Fixed a bug where full combo count in some beatmaps are inconsistent due to precision error in slider tick calculation
-    - Fixed a bug where combo count stays at 0 if complex effect is disabled without restarting the game
-    - Fixed a bug where score goes to negative value beyond 2,147,483,647 (score will be capped at said value)
-    - Fixed a bug where an ill-formed beatmap can crash the game during import process
+- Adiciones
+    - Borrar replays locales
+    - Escala del campo de juego
+    - Nuevos mods (todos unranked)
+    - Sudden Death (SD): Fallas despues de fallar una vez (sliderbreaks no cuentan)
+    - Small Circle (SC): Tamaño circulo + 4
+    - Perfect (PF): SS o fallas
+    - Flashlight (FL): Se oscurece todo menos un pequeño area donde tocas
+    - Really easy (RE): EZ pero mas facil, solo reduce el AR en una pequeña cantidad en vez de por la mitad
+    - ScoreV2: no se cambia el judgement para los sliders, se usa un calculo similar a osu!lazer para la puntucacion
+    - Speed modifier (ajusta la velocidad del mapa desde 0.5x a 2.00x) (unranked)
+    - Force AR (ajusta el AR del mapa desde 0 a 12.5) (unranked)
+    - Panel de usuario (presiona el panel del perfil en el menu principal para ir directamente a tu pagina de perfil)
+    - Grabacion de audio interna (Android 10+)
+    - Opcion para remover el bloqueo de los sliders y el bloqueo de los spinners (unranked)
+    - Dialogo antes de salir del juego para asegurarse que de verdad quieres salir
+    - Nueva opcion para clasificar mapas: SR y BPM
+    - Se incluye el nombre de las dificultadas de un mapa a la hora de buscar mapas
+    - Soporte para multiples toques en un solo frame; se habilita el double-tap
+    - Explosiones de golpeo animadas
+    - Mensaje de advertencia para almacenamiento bajo
+    - Opcion para precalcular el path de los sliders (mejora el rendimiento, pero incrementa los tiempos de carga) 
+    - Opcion para calcular PP al abrir un score
+- Cambios
+    - Precise (PR) mod ahora es ranked
+    - Easy (EZ) mod tiene 3 vidas
+    - Las replays con los mods Relax (RX) y AutoPilot (AP) seran guardadas con un multiplicador de puntuacion de 0.001x
+    - Se actualizó el star rating system para que sea igual al de PC
+    - Soporte para 10 cursores simultaneamente
+    - Se mejoró el framerate para el storyboard
+- Arreglos
+    - Se arregló un bug donde los followpoints que eran demasiado pequeños hacian que el juego se laguease.
+    - Se arregló un bug donde multiples notas podian ser hitteadas con solo tocar una vez
+    - Se arregló un bug donde NC era mas lento que DT en algunos mapas
+    - Se arregló un bug donde sliders con duracion negativa o BPM infinito hacian que un mapa fuese injugable
+    - Se arregló un bug donde algunos mapas podian hacer que el juego crashease cuando le dabas a una nota debido a hitsounds fuera de limites
+    - Se arregló un bug donde los spinners con duracion negativa o de menos de 50ms se autocompletaban
+    - Se arregló un bug donde algunos slider ticks no se mostraban correctamente
+    - Se arregló un bug donde los sliders reversos con alta velocidad (buzz sliders) tenian una duracion incorrecta
+    - Se arregló un bug donde algunos elementos de audio de skins podian hacer que se crashease el juego (archivos de audio menores a 1KB seran ignorados)
+    - Se arregló un bug de la tarjeta SD moviendo el archivo de caché de la biblioteca al directorio privado del juego.
+    - Se arregló un bug con la barra de navegacion (ahora se deberia de poder desactivar correctamente)
+    - Se arregló un bug donde la puntuacion se mostraba incorrectamente cuando estaba por encima de 100 millones mientras se jugaba
+    - Se arregló un bug cuando la duracion del mapa era mayor a una hora no se mostraba correctamente
+    - Se arregló un bug cuando el conteo de full combo en algunos mapas era inconsistente debido a errores de precision en el calculo de slider ticks     <!-- la traduccion de este elemento no es la mejor, puede que vuelva mas tarde -->
+    - Se arregló un bug donde el contador de comno se queda en 0 si "complex effect" es desactivado sin reiniciar el juego
+    - Se arregló un bug donde la puntuacion se va a un valor negativo cuando supera 2.147.483.647 (la puntuacion se capará en ese valor)
+    - Se arregló un bug donde el juego podia crashear al intentar importar mapas corruptos
 
-28 Feb 2021, 1.6.8-pr2 release[^35]
+28 Feb 2021, salió la 1.6.8-pr2[^35]
 
-- Additions
-    - Random welcome sound
-    - Customizable exit sound via skins
-    - Option to hide replaying text when watching a replay
-- Changes
-    - Custom skins are sorted alphabetically
-    - Rewritten beatmap parser, now able to load some beatmaps that were not possible to load
-- Fixes
-    - Fixed a bug where maximum obtainable performance points is displayed incorrectly if there are misses
-    - Fixed a bug where beatmap information in ranking screen is displayed incorrectly if custom speed multiplier and force AR are used
-    - Fixed a bug where beatmap sorting option ignores chosen in-game folder
-    - Fixed a bug where old beatmap status text reappears when global leaderboard is active
-    - Fixed a bug where custom directories are not loaded properly
-    - Fixed a bug where player avatars in online leaderboard are not loaded when not using Wi-Fi connection
-    - Fixed a bug where re-watching replays can crash the game
-    - Fixed a bug where custom beatmap skin's hit circle texture does not apply to sliders if not overridden
-    - Fixed a bug where background music volume setting does not apply in song selection menu
-    - Fixed a bug where some mutually exclusive mods can be selected together
-    - Fixed a bug where flashlight (FL) mod is not shown (if selected) when starting gameplay
-    - Fixed a bug where beatmap difficulty calculation breaks down at very high CS
-    - Fixed a bug where the game crashes if going back from mod selection menu when no beatmap is selected
+- Adiciones
+    - Sonido de bienvenida aleatorio
+    - Se puede customizar el sonido de salida del juego mediante skins
+    - Opcion para esconder el texto al estar viendo una replay
+- Cambios
+    - Las skins se ordenan alfabeticamente
+    - Parser de mapas reescrito, ahora es capaz de cargar algunos mapas que antes no se podían cargar.
+- Arreglos
+    - Se arregló un bug donde el PP maximo obtenible se mostraba incorrectamente si habia misses
+    - Se arregló un bug donde la informacion de los mapas en la pantalla de ranking se mostraba incorrectamente si el speed multiplier custom y el force AR era usado
+    - Se arregló un bug donde la opcion de ordeno de mapas ignoraba la carpeta elegida dentro del juego
+    - Se arregló un bug donde el texto antiguo estado del mapa reaparece cuando la leaderboard global esta activa
+    - Se arregló un bug donde los directorios customizados no se cargaban correctamente
+    - Se arregló un bug donde los avatares de los jugadores en las leaderboards online no se cargaban cuando no se estaba usando WI-FI
+    - Se arregló un bug donde volver a ver una replay podia crashear el juego
+    - Se arregló un bug donde la textura del hitcircle de la skin custom del mapa no se aplica a los sliders si no se sobrescribe.
+    - Se arregló un bug donde el volumen de la musica no se aplicaba al menu de seleccion de mapa
+    - Se arregló un bug donde algunos mods mutuamente excluyentes podían seleccionarse juntos
+    - Se arregló un bug donde el mod Flashlight (FL) no se mostraba (si estaba seleccionado) cuando se iniciaba el gameplay
+    - Se arregló un bug donde el calculo de dificultad de un mapa se rompia con un CS demasiado alto
+    - Se arregló un bug donde el juego crasheaba cuando volvias atras desde el menu de seleccion de mods cuando no habia ningun mapa seleccionado
 
-Future changelog is now available in the changelog file in the osu!droid GitHub repository
+Registros de cambios futuros estan en el repositorio de GitHub de osu!droid.
 
 [^1]: https://osu.ppy.sh/community/forums/topics/27379
 [^2]: http://beatsportable.com/2011/02/osu-mod-work-in-progress/
