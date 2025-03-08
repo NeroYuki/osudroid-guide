@@ -200,7 +200,7 @@ around end of Oct 2012, 1.5.6 release release with the following changelog
 - Fixed DDL (yet again)
 - Fixed crashing on some v10 maps
 
-around Jan 2013, 1.5.7 release
+around Nov 2012[unclear, citation needed], 1.5.7 release
 
 1 Dec 2012, 1.5.8 release
 
