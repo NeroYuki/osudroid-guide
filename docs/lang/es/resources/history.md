@@ -7,7 +7,7 @@ description: La historia de osu!droid.
 
 ## Historia del desarrollo de osu!droid
 
-### osu!droid en desarrollo por Pesets 
+### Epoca de desarollo por Pesets 
 
 Nota: Esta info esta sacada por la mayor parte de videos asi como tambien lo esta de info archivada en Wayback Machine 
 
@@ -143,16 +143,21 @@ Alrededor del comienzo de Noviembre 2011, v1.3 se publico con el siguiente chang
 Seccion de la build debug / test (Actualmente depende mucho en este hilo [^18])])
 
 19 Sep 2011, v1.0.1d se publica
+
 21 Sep 2011, v1.0.2d se publica
+
 22 Sep 2011, 1.0.3d se publica, probablemente es un test para la v1.1
 
 28 Sep 2011, v1.1.1d se publica
+
 30 Sep 2011, v1.1.2d se publica 
+
 3 Oct 2011, v1.1.3d se publica, test para DDL (para la v1.2)
 
 15 Oct 2011, v1.2.3d se publica, probablemente es un test para la v1.3
 
 05 Feb 2012, v1.4 se publica, haziendo cambios en el formato de score
+
 13 Mar 2012, v1.4.2a se publca, testeando las estadisticas online (para la v1.5)
 
 18 Feb 2012, v1.4.3d se publica (siendo la unica con un changelog en condiciones)
@@ -187,8 +192,11 @@ Seccion de la build debug / test (Actualmente depende mucho en este hilo [^18])]
 Algunas fechas de las publicaciones son deducidas por gente posteando sus setups en este hilo [^23] y el hilo ruso de osu!droid en 4PDA[^14], la fecha fijada es de este hilo a traves de diferentes capturas en Wayback Machine[^24]
 
 5 May 2012: v1.5.2 se publica
+
 5 May 2012, v1.5.2 se publica
+
 Por Jul 2012, 1.5.3 se publica
+
 Por Aug 2012, 1.5.4 se publica, otro arreglo para DDL
 
 5 Aug 2012, 1.5.5 se publica con el siguiente changelog:
@@ -202,9 +210,12 @@ Por el final de Oct 2012, v1.5.6 se publica con el siguiente changelog:log
 - DDL arreglado (una vez mas)
 - Arreglados crasheos en algunos mapas con el formato .osu v10
 
-Por Ene 2013, v1.5.7 se publica
-1 Dec 2013, 1.5.8 se publica
+Por Nov 2012, v1.5.7 se publica [no se sabe del todo, citation needed]  
+
+1 Dec 2012, 1.5.8 se publica
+
 2 Feb 2013, 1.5.9 se publica
+ 
 14 Jan 2014, 1.5.10 se publica, el cual marca la ultima version publica de osu!droid (hasta el momento)
 
 La mayor parte de las v1.5.x fueron para arreglar DDL y para añadir soporte a nuevos formatos de .osu, el cual hace a v1.5 la ultima mayor actualizacion del juego
