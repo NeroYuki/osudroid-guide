@@ -13,7 +13,7 @@ Note: Info is mostly taken from video as well as archived forum post on Wayback 
 
 30 Mar 2010: A thread on osu! forum discuss the possibility of an osu! port on Android[^1] but seem to went nowhere
 
-05 Feb 2011: An early rhythm game, Beats, had a working prototype on an osu! Mod[^2][^3] which and later release under update 1.5b on 14 Feb 2011[4]
+05 Feb 2011: An early rhythm game, Beats, had a working prototype on an osu! Mod[^2][^3] which and later release under update 1.5b on 14 Feb 2011[^4]
 
 23 May 2011: Beats 1.6b released. Introduced support for .osu file format[^5] (up to v5 [citation needed]). Mark the first time osu map can be played on Android devices
 
@@ -200,7 +200,7 @@ around end of Oct 2012, 1.5.6 release release with the following changelog
 - Fixed DDL (yet again)
 - Fixed crashing on some v10 maps
 
-around Jan 2013, 1.5.7 release
+around Nov 2012[unclear, citation needed], 1.5.7 release
 
 1 Dec 2012, 1.5.8 release
 
