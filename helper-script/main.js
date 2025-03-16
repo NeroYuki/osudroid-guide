@@ -38,31 +38,60 @@ async function main() {
                 }, {});
             }
 
+            const incomingPageMetadata = {
+                ...frontMatterObj,
+                category: dir,
+                title: frontMatterObj.title || file.replace('.md', '').replace(/-/g, ' '),
+                path: url,
+                description: frontMatterObj.description || "Placeholder",
+                cover: frontMatterObj.cover || "https://osudroid.moe/assets/img/logo.png",
+                lang: {}
+            };
+
+            // search for same article in lang folder
+            const availableLang = ['es', 'id', 'kr', 'th', 'vi', 'zh'];
+            
+            for (let lang of availableLang) {
+                const langFilePath = path.join(__dirname, '..', 'docs', 'lang', lang, dir, file);
+                //console.log('finding ', langFilePath)
+                if (fs.existsSync(langFilePath)) {
+                    const langFileContent = fs.readFileSync(langFilePath, 'utf-8');
+                    const langFrontMatter = langFileContent.split('---')[1];
+                    let langFrontMatterObj = {};
+                    if (langFrontMatter) {
+                        langFrontMatterObj = langFrontMatter.split('\n').reduce((acc, line) => {
+                            const [key, value] = line.split(': ');
+                            acc[key] = value;
+                            return acc;
+                        }, {});
+                    }
+
+                    incomingPageMetadata.lang[lang] = {
+                        title: langFrontMatterObj.title || incomingPageMetadata.title,
+                        description: langFrontMatterObj.description || incomingPageMetadata.description,
+                        path: '/lang/' + lang + url
+                    };
+
+                    console.log('| ' + langFilePath);
+                }
+            }
+
             // check if url exists in page_metadata.json
             if (!pageMetadata.find(page => page.path === url)) {
                 console.log(`Missing url: ${url}`);
 
                 // add url to page_metadata.json
-                pageMetadata.push({
-                    ...frontMatterObj,
-                    category: dir,
-                    title: frontMatterObj.title || file.replace('.md', '').replace(/-/g, ' '),
-                    path: url,
-                    description: frontMatterObj.description || "Placeholder",
-                    cover: frontMatterObj.cover || "https://osudroid.moe/assets/img/logo.png"
-                });
+                pageMetadata.push(incomingPageMetadata);
             }
             else {
                 // update the found entry
                 const index = pageMetadata.findIndex(page => page.path === url);
-                pageMetadata[index] = {
-                    ...frontMatterObj,
-                    category: dir,
-                    title: frontMatterObj.title || (pageMetadata[index].title ? pageMetadata[index].title : file.replace('.md', '').replace(/-/g, ' ')),
-                    path: url,
-                    description: frontMatterObj.description ||  (pageMetadata[index].description ? pageMetadata[index].description : "Placeholder"),
-                    cover: frontMatterObj.cover ||  (pageMetadata[index].cover ? pageMetadata[index].cover : "https://osudroid.moe/assets/img/logo.png"),
-                };
+                // assign existing title, description, and cover if not found in front matter
+                incomingPageMetadata.title = frontMatterObj.title || (pageMetadata[index].title ? pageMetadata[index].title : file.replace('.md', '').replace(/-/g, ' '));
+                incomingPageMetadata.description = frontMatterObj.description || (pageMetadata[index].description ? pageMetadata[index].description : "Placeholder");
+                incomingPageMetadata.cover = frontMatterObj.cover || (pageMetadata[index].cover ? pageMetadata[index].cover : "https://osudroid.moe/assets/img/logo.png");
+
+                pageMetadata[index] =  incomingPageMetadata;
             }
 
             console.log(filePath);
