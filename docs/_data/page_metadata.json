@@ -4,7 +4,14 @@
         "description": "OSU!DROID 100% GETTING STARTED NO DEATH SPEEDRUN",
         "category": "guide",
         "path": "/guide/quickstart",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "Guia de inicio rapido para osu!droid",
+                "description": "OSU!DROID 100% GETTING STARTED NO DEATH SPEEDRUN!1!1!1!1",
+                "path": "/lang/es/guide/quickstart"
+            }
+        }
     },
     {
         "category": "guide",
@@ -18,14 +25,22 @@
         "title": "Getting more beatmap",
         "path": "/guide/beatmap",
         "description": "How to get more beatmap in osu!droid",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {}
     },
     {
         "title": "Customizing how osu!droid look",
         "description": "A Comprehensive Guide on how to customizing your osu!droid interface",
         "category": "guide",
         "path": "/guide/skin",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "Customizando como se ve osu!droid",
+                "description": "Una guia para customizar como se ve la interfaz (y el gameplay) de osu!droid",
+                "path": "/lang/es/guide/skin"
+            }
+        }
     },
     {
         "category": "guide",
@@ -39,69 +54,138 @@
         "description": "A guide on how to contribute to development of osu!droid.",
         "category": "guide",
         "path": "/guide/developing",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "Desarrollar para osu!droid",
+                "description": "Una guia para como puedes contribuir para el desarrollo de osu!droid.",
+                "path": "/lang/es/guide/developing"
+            }
+        }
     },
     {
         "title": "Resolve multitouch issues",
         "description": "How to resolve multitouch issues in osu!droid",
         "category": "help",
         "path": "/help/multitouch",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "Resolver problemas con el multitoque (varios dedos en la misma pantalla)",
+                "description": "Como resolver problemas con el multitoque en osu!droid",
+                "path": "/lang/es/help/multitouch"
+            }
+        }
     },
     {
         "title": "Unable to login to osu!droid? Try these",
         "description": "A comprehensive(?) guide on resolving issues when players log into osu!droid Server",
         "category": "help",
         "path": "/help/login_fail",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "No puedes iniciar sesion en osu!droid? Intenta esto",
+                "description": "Una guia para resolver problemas que los usuarios puedan llegar a tener a la hora de iniciar sesion en osu!droid",
+                "path": "/lang/es/help/login_fail"
+            }
+        }
     },
     {
         "title": "osu!droid Old Version",
         "description": "A repository of old versions of osu!droid.",
         "category": "resources",
         "path": "/resources/archived_version",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "Antiguas versiones de osu!droid",
+                "description": "Un repositorio con antiguas versiones de osu!droid.",
+                "path": "/lang/es/resources/archived_version"
+            },
+            "vi": {
+                "title": "Phiên bản cũ của osu!droid",
+                "description": "Trang lưu trữ các phiên bản cũ của osu!droid",
+                "path": "/lang/vi/resources/archived_version"
+            }
+        }
     },
     {
         "title": "osu!droid Skin repository",
         "description": "Where to get osu!droid compatible skin",
         "category": "resources",
         "path": "/resources/skin",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "Repositorio de skins para osu!droid",
+                "description": "Donde conseguir skins compatibles para osu!droid",
+                "path": "/lang/es/resources/skin"
+            }
+        }
     },
     {
         "title": "osu!droid on SD Card",
         "description": "A guide on how to utilize your SD card for osu!droid",
         "category": "help",
         "path": "/help/sdcard",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "osu!droid en la Tarjeta SD",
+                "description": "Una guia sobre como usar tu Tarjeta SD en osu!droid",
+                "path": "/lang/es/help/sdcard"
+            }
+        }
     },
     {
         "title": "Differences between osu! and osu!droid",
         "description": "A (not really) comprehensive list of differences between osu! and osu!droid.",
         "category": "resources",
         "path": "/resources/osudiff",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "Diferencias entre osu! y osu!droid",
+                "description": "Una lista de las diferencias entre osu! y osu!droid.",
+                "path": "/lang/es/resources/osudiff"
+            }
+        }
     },
     {
         "title": "osu!droid History",
         "description": "A history of osu!droid.",
         "category": "resources",
         "path": "/resources/history",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "Historia de osu!droid",
+                "description": "La historia de osu!droid.",
+                "path": "/lang/es/resources/history"
+            }
+        }
     },
     {
         "title": "How to delete/update beatmaps in osu!droid",
         "description": "Yes this is somehow not really straight-forward",
         "category": "help",
         "path": "/help/test_2",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {
+            "es": {
+                "title": "Como borrar o actualizar mapas en osu!droid",
+                "description": "Si.",
+                "path": "/lang/es/help/test_2"
+            }
+        }
     },
     {
         "title": "Test",
         "description": "Placeholder description",
         "category": "guide",
         "path": "/guide/test36757",
-        "cover": "https://osudroid.moe/assets/img/logo.png"
+        "cover": "https://osudroid.moe/assets/img/logo.png",
+        "lang": {}
     }
 ]
