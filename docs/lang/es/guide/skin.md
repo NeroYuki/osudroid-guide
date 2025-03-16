@@ -37,7 +37,7 @@ description: Una guia para customizar como se ve la interfaz (y el gameplay) de 
 
 Las skins en osu!droid son basicamente un conjunto de archivos quepueden cambiar la apariencia de osu!droid cambiando los assets graficos y de audio assets y a su vez con parametros especificos en un archivo llamado skin.json
 
-Si ya jugaste osu! en PC, Buenas noticias! Las skins de pc son mayormente compatible con droid. Malas noticias! Algunos elementos pueden no funcionar. Tenlo en cuenta para cuando importes alguna skin del osu! de pc. O puedes usar un sitio como [https://tsukushi.site](https://tsukushi.site) (NO FUNCIONA LOL) para conseguir skins compatibles con osu!droid o hechas por jugadores de droid :D
+Si ya jugaste osu! en PC, Buenas noticias! Las skins de pc son mayormente compatible con droid. Malas noticias! Algunos elementos pueden no funcionar. Tenlo en cuenta para cuando importes alguna skin del osu! de pc. O puedes usar un sitio como [este repositorio de github](https://github.com/75efb6/osu-droid-skins-repo) para conseguir skins compatibles con osu!droid o hechas por jugadores de droid :D
 
 Para importar una skin, la descargas del sitio que te guste. Puede estar en la extension .osk o .zip. Si esta en .zip (o .osk.zip porque aparentemente). Extrae el .zip usando algun explorador de archivos medio decente (mi recomendacion es ZArchiver). De otra forma renombra el .osk a .zip y haz exactamente lo mismo. Despues mueve la carpeta que has extraido a tu carpeta de skins de osu!droid, la estructura de archivos de tu carpeta de skins de osu!droid deberia estar de esta forma:
 
