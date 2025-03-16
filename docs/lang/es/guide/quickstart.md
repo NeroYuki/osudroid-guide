@@ -34,11 +34,10 @@ description: OSU!DROID 100% GETTING STARTED NO DEATH SPEEDRUN!1!1!1!1
     ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-183314.png)
     *Puede haber una flecha que indica que va a ir en reversa al llegar a ella, tenlo en cuenta.*
     
-    - See the spinner? Drag your finger around the center of the screen to spin (This is the easiest one. Just spin it fast. You don't need to follow the rhythm)
+    - Ves el spinner? Con el dedo, haz circulos alrededor de el, hazlo lo mas rapido que puedas, no hay ni que seguir el ritmo
     ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-184159.png)
-    - What matter is how well you timed your tap. The game will give you a score based on that (300 - 100 - 50 - Miss (also happen if you tap in the wrong place))
-    - See the bar on top? Do well and the bar will not deplete until you finished the map. Otherwise you fail the map and you have to restart.
-    - Hold it until the end of the song and you are done! You have submitted your score to the leaderboard
+    - Lo mas importante es como hayas timeado tus hits. El juego te dará un judgement basado en eso (300 - 100 - 50 - Miss (tambien ocurre si no le das al circulo))
+    - Ves la barra de arriba? Es tu barra de vida, si llega a 0, mueres, se va rellenando conforme le das a los objetos del mapa
     ![Alt text]({{site.baseurl}}/assets/images/Screenshot_20231007-190815.png)
 
 Ya esta! Ya tienes el juego, consigue mapas, juegalos y sube las puntuaciones al servidor online (se hace automaticamente).
