@@ -37,7 +37,7 @@ description: A Comprehensive Guide on how to customizing your osu!droid interfac
 
 Skin in osu!droid is basically a bunch of files that can change the appearance of osu!droid by swapping out the game's graphical/audio assets as well as some specific parameter that we will talk about later on with skin.json
 
-If you already played osu! on PC, good news! osu! stable PC skins are mostly(tm) compatible with osu!droid. Bad news! some element may not behave as expected and osu! PC-specific hacks (like full screen HP bar) will be straight up broken on osu!droid. Please be aware before importing osu! PC skin. Or, you can use site like [https://tsukushi.site](https://tsukushi.site) to get osu!droid compatible skins that other players use in their usual gameplay :D
+If you already played osu! on PC, good news! osu! stable PC skins are mostly(tm) compatible with osu!droid. Bad news! some element may not behave as expected and osu! PC-specific hacks (like full screen HP bar) will be straight up broken on osu!droid. Please be aware before importing osu! PC skin. Or, you can use [this GitHub osu!droid skin repository ](https://github.com/75efb6/osu-droid-skins-repo) to get osu!droid compatible skins that other players use in their usual gameplay :D
 
 To import a skin, you download the skin from your place of interest. The downloaded file will either be in .osk or .zip extension. If it is in .zip (or .osk.zip because apparently some browser like to do so). Extract the .zip file using any half decent file explorer (or ZArchiver). Otherwise rename the .osk extension to .zip and do exactly the same. After that move the FOLDER contain all the extracted files to your osu!droid Skin folder, the file structure of your osu!droid Skin folder should looks like this:
 
